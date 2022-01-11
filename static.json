@@ -1,7 +1,5 @@
 {
-  "root": "/"
   "routes": {
     "/**": "Therapist_Tool.sozi.html",
   }
-
 }
