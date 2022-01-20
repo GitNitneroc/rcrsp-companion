@@ -26,14 +26,14 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="0.45254834"
-     inkscape:cx="6089.9572"
-     inkscape:cy="-1834.0582"
+     inkscape:cx="4810.5358"
+     inkscape:cy="-1867.2038"
      inkscape:window-width="1862"
      inkscape:window-height="1043"
      inkscape:window-x="58"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1035" />
+     inkscape:current-layer="layer3" />
   <defs
      id="defs2">
     <rect
@@ -312,6 +312,18 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path108806-12" />
     </marker>
+    <rect
+       x="-3163.7312"
+       y="620.52118"
+       width="1069.4423"
+       height="171.5966"
+       id="rect1414" />
+    <rect
+       x="4603.8666"
+       y="-2363.7834"
+       width="529.43497"
+       height="280.4719"
+       id="rect1416" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -334,7 +346,7 @@
       <g
          id="g29301-3-96"
          inkscape:label="Diapo 1"
-         transform="rotate(-0.02427474,-171001.55,-105818.26)">
+         transform="rotate(-0.02427474,-171001.55,-105826.4)">
         <g
            id="g106417-2"
            inkscape:label="Explications"
@@ -353,42 +365,42 @@
              transform="matrix(0.1338173,5.6694928e-5,-5.6694928e-5,0.1338173,-346.10082,62.494381)"><tspan
                x="2076.834"
                y="446.00191"
-               id="tspan404333">The contemplative state of change is characterised by ambivalence. Patients in this state </tspan><tspan
+               id="tspan17093">The contemplative state of change is characterised by ambivalence. Patients in this state </tspan><tspan
                x="2076.834"
                y="466.00191"
-               id="tspan404335">are aware of the benefits of changing their behaviour, but they are not ready to make </tspan><tspan
+               id="tspan17095">are aware of the benefits of changing their behaviour, but they are not ready to make </tspan><tspan
                x="2076.834"
                y="486.00191"
-               id="tspan404337">the change yet and also find advantages in their current situation.
+               id="tspan17097">the change yet and also find advantages in their current situation.
 </tspan><tspan
                x="2076.834"
                y="506.00191"
-               id="tspan404339">
+               id="tspan17099">
 </tspan><tspan
                x="2076.834"
                y="526.00191"
-               id="tspan404341">In the case of RCRSP, ambivalence can have many forms : “I understand exercise will help </tspan><tspan
+               id="tspan17101">In the case of RCRSP, ambivalence can have many forms : “I understand exercise will help </tspan><tspan
                x="2076.834"
                y="546.00191"
-               id="tspan404343">me… But it hurts !”, “Physical activity is probably great, but after a days’ work I need </tspan><tspan
+               id="tspan17103">me… But it hurts !”, “Physical activity is probably great, but after a days’ work I need </tspan><tspan
                x="2076.834"
                y="566.00191"
-               id="tspan404345">rest”, “I know my exercise programme will help me, but it’s just not the right time, it will </tspan><tspan
+               id="tspan17105">rest”, “I know my exercise programme will help me, but it’s just not the right time, it will </tspan><tspan
                x="2076.834"
                y="586.00191"
-               id="tspan404347">probably be easier for me next week”. Procrastination is also common at this stage.
+               id="tspan17107">probably be easier for me next week”. Procrastination is also common at this stage.
 </tspan><tspan
                x="2076.834"
                y="606.00191"
-               id="tspan404349">
+               id="tspan17109">
 </tspan><tspan
                x="2076.834"
                y="626.00191"
-               id="tspan404351">Our objective here is to tip the scales !
+               id="tspan17111">Our objective here is to tip the scales !
 </tspan><tspan
                x="2076.834"
                y="646.00191"
-               id="tspan404353">
+               id="tspan17113">
 </tspan></text>
           <text
              xml:space="preserve"
@@ -437,43 +449,43 @@
            inkscape:label="Corps Texte"><tspan
              x="2076.834"
              y="446.00191"
-             id="tspan404355">Patients should understand how moving and exercising will help them, and we should </tspan><tspan
+             id="tspan17115">Patients should understand how moving and exercising will help them, and we should </tspan><tspan
              x="2076.834"
              y="466.00191"
-             id="tspan404357">help them engage in active rehabilitation. Those videos are meant to weigh toward </tspan><tspan
+             id="tspan17117">help them engage in active rehabilitation. Those videos are meant to weigh toward </tspan><tspan
              x="2076.834"
              y="486.00191"
-             id="tspan404359">active interventions in the decisional balance.
+             id="tspan17119">active interventions in the decisional balance.
 </tspan><tspan
              x="2076.834"
              y="506.00191"
-             id="tspan404361">
+             id="tspan17121">
 </tspan><tspan
              x="2076.834"
              y="526.00191"
-             id="tspan404363">You can find some more information on this state of change in the upper-right (zoom </tspan><tspan
+             id="tspan17123">You can find some more information on this state of change in the upper-right (zoom </tspan><tspan
              x="2076.834"
              y="546.00191"
-             id="tspan404365">with mouse-wheel or pinch), or drag screen to the right to find the videos.
+             id="tspan17125">with mouse-wheel or pinch), or drag screen to the right to find the videos.
 </tspan><tspan
              x="2076.834"
              y="566.00191"
-             id="tspan404367">
+             id="tspan17127">
 </tspan><tspan
              x="2076.834"
              y="586.00191"
-             id="tspan404369">You can also go to the next state by left clicking, swiping, pressing the right arrow or by </tspan><tspan
+             id="tspan17129">You can also go to the next state by left clicking, swiping, pressing the right arrow or by </tspan><tspan
              x="2076.834"
              y="606.00191"
-             id="tspan404371">using the menu in the top-left !
+             id="tspan17131">using the menu in the top-left !
 </tspan><tspan
              x="2076.834"
              y="626.00191"
-             id="tspan404373">
+             id="tspan17133">
 </tspan><tspan
              x="2076.834"
              y="646.00191"
-             id="tspan404375">
+             id="tspan17135">
 </tspan></text>
       </g>
       <g
@@ -503,7 +515,7 @@
            inkscape:label="Titre"><tspan
              x="1234.4414"
              y="-708.57336"
-             id="tspan404377">Imaging in RCRSP</tspan></text>
+             id="tspan17137">Imaging in RCRSP</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.07339221,0,0,0.07828375,270.10174,19.60241)"
@@ -512,41 +524,41 @@
            inkscape:label="Text"><tspan
              x="1546.1602"
              y="-2462.9737"
-             id="tspan404379">This video explains the limited role of imaging in </tspan><tspan
+             id="tspan17139">This video explains the limited role of imaging in </tspan><tspan
              x="1546.1602"
              y="-2412.9737"
-             id="tspan404381">RCRSP. It tries to put imaging findings in </tspan><tspan
+             id="tspan17141">RCRSP. It tries to put imaging findings in </tspan><tspan
              x="1546.1602"
              y="-2362.9737"
-             id="tspan404383">perspective, and reinforces the idea that one can </tspan><tspan
+             id="tspan17143">perspective, and reinforces the idea that one can </tspan><tspan
              x="1546.1602"
              y="-2312.9737"
-             id="tspan404385">have perfect shoulder function in spite of them.
+             id="tspan17145">have perfect shoulder function in spite of them.
 </tspan><tspan
              x="1546.1602"
              y="-2262.9737"
-             id="tspan404387">
+             id="tspan17147">
 </tspan><tspan
              x="1546.1602"
              y="-2212.9737"
-             id="tspan404389">The references used in the videos are only found on </tspan><tspan
+             id="tspan17149">The references used in the videos are only found on </tspan><tspan
              x="1546.1602"
              y="-2162.9737"
-             id="tspan404391">the youtube page, go there if you want them !
+             id="tspan17151">the youtube page, go there if you want them !
 </tspan><tspan
              x="1546.1602"
              y="-2112.9737"
-             id="tspan404393">
+             id="tspan17153">
 </tspan><tspan
              x="1546.1602"
              y="-2062.9737"
-             id="tspan404395">Remember you can click on the QR code to send an </tspan><tspan
+             id="tspan17155">Remember you can click on the QR code to send an </tspan><tspan
              x="1546.1602"
              y="-2012.9737"
-             id="tspan404397">email, and here are a few questions you can use to </tspan><tspan
+             id="tspan17157">email, and here are a few questions you can use to </tspan><tspan
              x="1546.1602"
              y="-1962.9737"
-             id="tspan404399">get your patient’s feelings about this video.
+             id="tspan17159">get your patient’s feelings about this video.
 </tspan></text>
         <a
            id="a219132-5-1"
@@ -576,21 +588,21 @@
            inkscape:label="Questions"><tspan
              x="358.78711"
              y="-1731.8195"
-             id="tspan404401">-At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
+             id="tspan17161">-At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
              x="358.78711"
              y="-1681.8195"
-             id="tspan404403">remember what this is ?
+             id="tspan17163">remember what this is ?
 </tspan><tspan
              x="358.78711"
              y="-1631.8195"
-             id="tspan404405">
+             id="tspan17165">
 </tspan><tspan
              x="358.78711"
              y="-1581.8195"
-             id="tspan404407">-This video gives general facts about imaging, do you think this </tspan><tspan
+             id="tspan17167">-This video gives general facts about imaging, do you think this </tspan><tspan
              x="358.78711"
              y="-1531.8195"
-             id="tspan404409">relates to your specific situation ?
+             id="tspan17169">relates to your specific situation ?
 </tspan></text>
       </g>
       <g
@@ -628,7 +640,7 @@
       <g
          id="g29301-3"
          inkscape:label="Diapo 1"
-         transform="rotate(-0.02427474,-171001.55,-105782.62)">
+         transform="rotate(-0.02427474,-171001.55,-105787.24)">
         <g
            id="g106417"
            inkscape:label="Explications">
@@ -646,43 +658,43 @@
              transform="matrix(0.12699289,5.3803603e-5,-5.3803603e-5,0.12699289,-308.28083,63.575109)"><tspan
                x="2076.834"
                y="446.00191"
-               id="tspan404411">Generally, patients in the pre-contemplative state of change don't realise they have a </tspan><tspan
+               id="tspan17171">Generally, patients in the pre-contemplative state of change don't realise they have a </tspan><tspan
                x="2076.834"
                y="466.00191"
-               id="tspan404413">problematic behaviour.
+               id="tspan17173">problematic behaviour.
 </tspan><tspan
                x="2076.834"
                y="486.00191"
-               id="tspan404415">
+               id="tspan17175">
 </tspan><tspan
                x="2076.834"
                y="506.00191"
-               id="tspan404417">In our specific context of exercise as a treatment of RCRSP, the patients in this state </tspan><tspan
+               id="tspan17177">In our specific context of exercise as a treatment of RCRSP, the patients in this state </tspan><tspan
                x="2076.834"
                y="526.00191"
-               id="tspan404419">typically think their shoulder problem is anatomical, and the solution will be passive </tspan><tspan
+               id="tspan17179">typically think their shoulder problem is anatomical, and the solution will be passive </tspan><tspan
                x="2076.834"
                y="546.00191"
-               id="tspan404421">and/or external (rest, massage, injection, surgery…).
+               id="tspan17181">and/or external (rest, massage, injection, surgery…).
 </tspan><tspan
                x="2076.834"
                y="566.00191"
-               id="tspan404423">
+               id="tspan17183">
 </tspan><tspan
                x="2076.834"
                y="586.00191"
-               id="tspan404425">Since patients don’t realise there is a problem, providing them a solution is meaningless. </tspan><tspan
+               id="tspan17185">Since patients don’t realise there is a problem, providing them a solution is meaningless. </tspan><tspan
                x="2076.834"
                y="606.00191"
-               id="tspan404427">Our position here will be to simply raise doubts.
+               id="tspan17187">Our position here will be to simply raise doubts.
 </tspan><tspan
                x="2076.834"
                y="626.00191"
-               id="tspan404429">
+               id="tspan17189">
 </tspan><tspan
                x="2076.834"
                y="646.00191"
-               id="tspan404431">
+               id="tspan17191">
 </tspan></text>
           <text
              xml:space="preserve"
@@ -727,65 +739,65 @@
            xml:space="preserve"
            transform="matrix(0.26458331,1.1209711e-4,-1.1209711e-4,0.26458331,-755.7893,66.151057)"
            id="text24709"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24711)"
+           style="shape-inside:url(#rect24711);white-space:pre;font-variant-east-asian:normal;font-variant-numeric:normal;font-variant-caps:normal;font-variant-ligatures:normal;-inkscape-font-specification:'Ubuntu, Normal';font-family:Ubuntu;line-height:1.25;font-size:16px;font-stretch:normal;font-weight:normal;font-variant:normal;font-style:normal"
            inkscape:label="Corps Texte"><tspan
              x="2076.834"
              y="446.00191"
-             id="tspan404435">The point of this section is to <tspan
+             id="tspan17195">The point of this section is to <tspan
    style="font-weight:bold"
-   id="tspan404433">fight against a patho-anatomical conception</tspan> of RCRSP.
+   id="tspan17193">fight against a patho-anatomical conception</tspan> of RCRSP.
 </tspan><tspan
              x="2076.834"
              y="466.00191"
-             id="tspan404439">It is aimed at patients that believe their shoulder condition will <tspan
+             id="tspan17199">It is aimed at patients that believe their shoulder condition will <tspan
    style="font-weight:bold"
-   id="tspan404437">improve from passive </tspan></tspan><tspan
+   id="tspan17197">improve from passive </tspan></tspan><tspan
              x="2076.834"
              y="486.00191"
-             id="tspan404443"><tspan
+             id="tspan17203"><tspan
    style="font-weight:bold"
-   id="tspan404441">modalities</tspan>.
+   id="tspan17201">modalities</tspan>.
 </tspan><tspan
              x="2076.834"
              y="506.00191"
-             id="tspan404445">
+             id="tspan17205">
 </tspan><tspan
              x="2076.834"
              y="526.00191"
-             id="tspan404451">Click on the <tspan
+             id="tspan17211">Click on the <tspan
    style="font-weight:bold"
-   id="tspan404447">arrows</tspan> if you want to see <tspan
+   id="tspan17207">arrows</tspan> if you want to see <tspan
    style="font-weight:bold"
-   id="tspan404449">more info</tspan> on the pre-contemplative state, or if </tspan><tspan
+   id="tspan17209">more info</tspan> on the pre-contemplative state, or if </tspan><tspan
              x="2076.834"
              y="546.00191"
-             id="tspan404455">you want to see the <tspan
+             id="tspan17215">you want to see the <tspan
    style="font-weight:bold"
-   id="tspan404453">videos</tspan>.
+   id="tspan17213">videos</tspan>.
 </tspan><tspan
              x="2076.834"
              y="566.00191"
-             id="tspan404457">
+             id="tspan17217">
 </tspan><tspan
              x="2076.834"
              y="586.00191"
-             id="tspan404461">Click here to continue to the next section : <tspan
+             id="tspan17221">Click here to continue to the next section : <tspan
    style="font-weight:bold"
-   id="tspan404459">Contemplative State</tspan>
+   id="tspan17219">Contemplative State</tspan>
 </tspan><tspan
              x="2076.834"
              y="606.00191"
-             id="tspan404463">
+             id="tspan17223">
 </tspan><tspan
              x="2076.834"
              y="626.00191"
-             id="tspan404467">Remember you can use the<tspan
+             id="tspan17227">Remember you can use the<tspan
    style="font-weight:bold"
-   id="tspan404465"> menu in the top-left corner</tspan>.
+   id="tspan17225"> menu in the top-left corner</tspan>.
 </tspan><tspan
              x="2076.834"
              y="646.00191"
-             id="tspan404469">
+             id="tspan17229">
 </tspan></text>
       </g>
       <g
@@ -815,7 +827,7 @@
            inkscape:label="Titre"><tspan
              x="1234.4414"
              y="-708.57336"
-             id="tspan404471">Imaging in RCRSP</tspan></text>
+             id="tspan17231">Imaging in RCRSP</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.07339221,0,0,0.07828375,270.10174,19.60241)"
@@ -824,41 +836,41 @@
            inkscape:label="Text"><tspan
              x="1546.1602"
              y="-2462.9737"
-             id="tspan404473">This video explains the limited role of imaging in </tspan><tspan
+             id="tspan17233">This video explains the limited role of imaging in </tspan><tspan
              x="1546.1602"
              y="-2412.9737"
-             id="tspan404475">RCRSP. It tries to put imaging findings in </tspan><tspan
+             id="tspan17235">RCRSP. It tries to put imaging findings in </tspan><tspan
              x="1546.1602"
              y="-2362.9737"
-             id="tspan404477">perspective, and reinforces the idea that one can </tspan><tspan
+             id="tspan17237">perspective, and reinforces the idea that one can </tspan><tspan
              x="1546.1602"
              y="-2312.9737"
-             id="tspan404479">have perfect shoulder function in spite of them.
+             id="tspan17239">have perfect shoulder function in spite of them.
 </tspan><tspan
              x="1546.1602"
              y="-2262.9737"
-             id="tspan404481">
+             id="tspan17241">
 </tspan><tspan
              x="1546.1602"
              y="-2212.9737"
-             id="tspan404483">The references used in the videos are only found on </tspan><tspan
+             id="tspan17243">The references used in the videos are only found on </tspan><tspan
              x="1546.1602"
              y="-2162.9737"
-             id="tspan404485">the youtube page, go there if you want them !
+             id="tspan17245">the youtube page, go there if you want them !
 </tspan><tspan
              x="1546.1602"
              y="-2112.9737"
-             id="tspan404487">
+             id="tspan17247">
 </tspan><tspan
              x="1546.1602"
              y="-2062.9737"
-             id="tspan404489">Remember you can click on the QR code to send an </tspan><tspan
+             id="tspan17249">Remember you can click on the QR code to send an </tspan><tspan
              x="1546.1602"
              y="-2012.9737"
-             id="tspan404491">email, and here are a few questions you can use to </tspan><tspan
+             id="tspan17251">email, and here are a few questions you can use to </tspan><tspan
              x="1546.1602"
              y="-1962.9737"
-             id="tspan404493">get your patient’s feelings about this video.
+             id="tspan17253">get your patient’s feelings about this video.
 </tspan></text>
         <a
            id="a219132-5"
@@ -888,21 +900,21 @@
            inkscape:label="Questions"><tspan
              x="358.78711"
              y="-1731.8195"
-             id="tspan404495">-At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
+             id="tspan17255">-At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
              x="358.78711"
              y="-1681.8195"
-             id="tspan404497">remember what this is ?
+             id="tspan17257">remember what this is ?
 </tspan><tspan
              x="358.78711"
              y="-1631.8195"
-             id="tspan404499">
+             id="tspan17259">
 </tspan><tspan
              x="358.78711"
              y="-1581.8195"
-             id="tspan404501">-This video gives general facts about imaging, do you think this </tspan><tspan
+             id="tspan17261">-This video gives general facts about imaging, do you think this </tspan><tspan
              x="358.78711"
              y="-1531.8195"
-             id="tspan404503">relates to your specific situation ?
+             id="tspan17263">relates to your specific situation ?
 </tspan></text>
       </g>
       <g
@@ -936,7 +948,7 @@
         <text
            xml:space="preserve"
            id="text116924-36"
-           style="font-size:10.5833px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';white-space:pre;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
            transform="translate(0.80949891,-1.1071495)"><textPath
              xlink:href="#path108526-9"
              id="textPath123462-80">More info</textPath></text>
@@ -980,7 +992,7 @@
            inkscape:label="Titre"><tspan
              x="1234.4414"
              y="-708.57336"
-             id="tspan404505">Introductory video</tspan></text>
+             id="tspan17265">Introductory video</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.07484895,0,0,0.07484895,271.02296,6.7941734)"
@@ -989,63 +1001,63 @@
            inkscape:label="Text"><tspan
              x="1546.1602"
              y="-2462.9737"
-             id="tspan404509">This is the first suggested video ! It's a <tspan
+             id="tspan17269">This is the first suggested video ! It's a <tspan
    style="font-weight:bold"
-   id="tspan404507">simple </tspan></tspan><tspan
+   id="tspan17267">simple </tspan></tspan><tspan
              x="1546.1602"
              y="-2412.9737"
-             id="tspan404513"><tspan
+             id="tspan17273"><tspan
    style="font-weight:bold"
-   id="tspan404511">presentation</tspan> of this tool, to get the patient </tspan><tspan
+   id="tspan17271">presentation</tspan> of this tool, to get the patient </tspan><tspan
              x="1546.1602"
              y="-2362.9737"
-             id="tspan404515">engaged.
+             id="tspan17275">engaged.
 </tspan><tspan
              x="1546.1602"
              y="-2312.9737"
-             id="tspan404519">It also evokes RCRSP, its <tspan
+             id="tspan17279">It also evokes RCRSP, its <tspan
    style="font-weight:bold"
-   id="tspan404517">prognosis</tspan> and the most </tspan><tspan
+   id="tspan17277">prognosis</tspan> and the most </tspan><tspan
              x="1546.1602"
              y="-2262.9737"
-             id="tspan404523"><tspan
+             id="tspan17283"><tspan
    style="font-weight:bold"
-   id="tspan404521">recommended treatments</tspan>.
+   id="tspan17281">recommended treatments</tspan>.
 </tspan><tspan
              x="1546.1602"
              y="-2212.9737"
-             id="tspan404525">
+             id="tspan17285">
 </tspan><tspan
              x="1546.1602"
              y="-2162.9737"
-             id="tspan404529">Under the video you will find suggested <tspan
+             id="tspan17289">Under the video you will find suggested <tspan
    style="font-weight:bold"
-   id="tspan404527">questions</tspan> </tspan><tspan
+   id="tspan17287">questions</tspan> </tspan><tspan
              x="1546.1602"
              y="-2112.9737"
-             id="tspan404531">to ask your patient at the next appointment, to </tspan><tspan
+             id="tspan17291">to ask your patient at the next appointment, to </tspan><tspan
              x="1546.1602"
              y="-2062.9737"
-             id="tspan404533">evaluate their understanding and to collect </tspan><tspan
+             id="tspan17293">evaluate their understanding and to collect </tspan><tspan
              x="1546.1602"
              y="-2012.9737"
-             id="tspan404535">feedback.
+             id="tspan17295">feedback.
 </tspan><tspan
              x="1546.1602"
              y="-1962.9737"
-             id="tspan404539">You can also see a <tspan
+             id="tspan17299">You can also see a <tspan
    style="font-weight:bold"
-   id="tspan404537">QR code</tspan>, you can either click on </tspan><tspan
+   id="tspan17297">QR code</tspan>, you can either click on </tspan><tspan
              x="1546.1602"
              y="-1912.9737"
-             id="tspan404543">it to <tspan
+             id="tspan17303">it to <tspan
    style="font-weight:bold"
-   id="tspan404541">send an email</tspan> with the video to your patient, </tspan><tspan
+   id="tspan17301">send an email</tspan> with the video to your patient, </tspan><tspan
              x="1546.1602"
              y="-1862.9737"
-             id="tspan404547">or have him <tspan
+             id="tspan17307">or have him <tspan
    style="font-weight:bold"
-   id="tspan404545">scan the code</tspan>.</tspan></text>
+   id="tspan17305">scan the code</tspan>.</tspan></text>
         <a
            id="a219132"
            xlink:href="mailto:patient@email.com?subject=Video from your PT&amp;body=Please have a look at this video : https://www.youtube.com/watch?v=EoPGVN0Hv-8 "
@@ -1074,30 +1086,30 @@
            inkscape:label="Questions"><tspan
              x="358.78711"
              y="-1731.8195"
-             id="tspan404549">Q1: Do you think your complaints match those described in the </tspan><tspan
+             id="tspan17309">Q1: Do you think your complaints match those described in the </tspan><tspan
              x="358.78711"
              y="-1681.8195"
-             id="tspan404551">video ?
+             id="tspan17311">video ?
 </tspan><tspan
              x="358.78711"
              y="-1631.8195"
-             id="tspan404553">
+             id="tspan17313">
 </tspan><tspan
              x="358.78711"
              y="-1581.8195"
-             id="tspan404557"><tspan
+             id="tspan17317"><tspan
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152"
-               id="tspan404555">Q2: Can you remember the expected timeframe mentioned in the </tspan></tspan><tspan
+               id="tspan17315">Q2: Can you remember the expected timeframe mentioned in the </tspan></tspan><tspan
              x="358.78711"
              y="-1531.8195"
-             id="tspan404559">video ? How do you feel about it ?
+             id="tspan17319">video ? How do you feel about it ?
 </tspan></text>
       </g>
     </g>
     <g
        id="g29301-3-9"
        inkscape:label="States of Change"
-       transform="rotate(-0.02427474,-2511753,-1563553)">
+       transform="rotate(-0.02427474,-2511753,-1563586)">
       <path
          style="fill:#ecbc57;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -211.39262,161.9681 c 44.56974,-23.92879 165.819361,-41.91083 179.121431,-3.28367 38.6985121,112.3745 -57.214306,104.92617 -107.716601,103.37909 -127.52375,-3.90655 -95.41173,-87.2065 -71.40483,-100.09542 z"
@@ -1128,57 +1140,57 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect38691)"><tspan
            x="1743.2246"
            y="-3407.4782"
-           id="tspan404561">The videos provided in this tool can be used independently, but they are </tspan><tspan
+           id="tspan17321">The videos provided in this tool can be used independently, but they are </tspan><tspan
            x="1743.2246"
            y="-3384.1447"
-           id="tspan404563">presented here like a path, and they are grouped according to Prochaska </tspan><tspan
+           id="tspan17323">presented here like a path, and they are grouped according to Prochaska </tspan><tspan
            x="1743.2246"
            y="-3360.8112"
-           id="tspan404567">and Diclemente <tspan
+           id="tspan17327">and Diclemente <tspan
    style="font-weight:bold"
-   id="tspan404565">states of change</tspan>.
+   id="tspan17325">states of change</tspan>.
 </tspan><tspan
            x="1743.2246"
            y="-3337.4777"
-           id="tspan404569">
+           id="tspan17329">
 </tspan><tspan
            x="1743.2246"
            y="-3314.1442"
-           id="tspan404571">Don’t worry if you are unfamiliar with this model, it’s mostly used here as a </tspan><tspan
+           id="tspan17331">Don’t worry if you are unfamiliar with this model, it’s mostly used here as a </tspan><tspan
            x="1743.2246"
            y="-3290.8107"
-           id="tspan404573">way to organise the content. This classification is based on the patient’s </tspan><tspan
+           id="tspan17333">way to organise the content. This classification is based on the patient’s </tspan><tspan
            x="1743.2246"
            y="-3267.4772"
-           id="tspan404579">state of mind regarding <tspan
+           id="tspan17339">state of mind regarding <tspan
    style="font-weight:bold"
-   id="tspan404575">therapeutic exercise </tspan>and <tspan
+   id="tspan17335">therapeutic exercise </tspan>and <tspan
    style="font-weight:bold"
-   id="tspan404577">physical activity</tspan> as a </tspan><tspan
+   id="tspan17337">physical activity</tspan> as a </tspan><tspan
            x="1743.2246"
            y="-3244.1437"
-           id="tspan404581">treatment for RCRSP.
+           id="tspan17341">treatment for RCRSP.
 </tspan><tspan
            x="1743.2246"
            y="-3220.8102"
-           id="tspan404583">
+           id="tspan17343">
 </tspan><tspan
            x="1743.2246"
            y="-3197.4767"
-           id="tspan404585">Some videos will suggest to your patient another video to watch, this is </tspan><tspan
+           id="tspan17345">Some videos will suggest to your patient another video to watch, this is </tspan><tspan
            x="1743.2246"
            y="-3174.1433"
-           id="tspan404587">indicated by a dotted arrow between the videos.
+           id="tspan17347">indicated by a dotted arrow between the videos.
 </tspan><tspan
            x="1743.2246"
            y="-3150.8098"
-           id="tspan404589">
+           id="tspan17349">
 </tspan><tspan
            x="1743.2246"
            y="-3127.4763"
-           id="tspan404593">The next slide will be on the <tspan
+           id="tspan17353">The next slide will be on the <tspan
    style="font-weight:bold"
-   id="tspan404591">pre-contemplative</tspan> state-of change</tspan></text>
+   id="tspan17351">pre-contemplative</tspan> state-of change</tspan></text>
     </g>
     <g
        id="g970"
@@ -1210,27 +1222,27 @@
            inkscape:label="text62984"><tspan
              x="-227.31055"
              y="1238.6415"
-             id="tspan404595">The point of this tool is to offer </tspan><tspan
+             id="tspan17355">The point of this tool is to offer </tspan><tspan
              x="-227.31055"
              y="1268.6415"
-             id="tspan404597">educationnal videos, that cover different </tspan><tspan
+             id="tspan17357">educationnal videos, that cover different </tspan><tspan
              x="-227.31055"
              y="1298.6415"
-             id="tspan404603">topics related to <tspan
+             id="tspan17363">topics related to <tspan
    style="font-weight:bold"
-   id="tspan404599">exercise</tspan> and <tspan
+   id="tspan17359">exercise</tspan> and <tspan
    style="font-weight:bold"
-   id="tspan404601">physical </tspan></tspan><tspan
+   id="tspan17361">physical </tspan></tspan><tspan
              x="-227.31055"
              y="1328.6415"
-             id="tspan404607"><tspan
+             id="tspan17367"><tspan
    style="font-weight:bold"
-   id="tspan404605">activity</tspan> for the management of rotator </tspan><tspan
+   id="tspan17365">activity</tspan> for the management of rotator </tspan><tspan
              x="-227.31055"
              y="1358.6415"
-             id="tspan404611">cuff related shoulder pain (<tspan
+             id="tspan17371">cuff related shoulder pain (<tspan
    style="font-weight:bold"
-   id="tspan404609">RCRSP</tspan>).</tspan></text>
+   id="tspan17369">RCRSP</tspan>).</tspan></text>
       </g>
       <g
          id="g29301"
@@ -1276,37 +1288,36 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10063)"><tspan
              x="307.06641"
              y="725.89018"
-             id="tspan404613">This is a presentation of the </tspan><tspan
+             id="tspan17373">This is a presentation of the </tspan><tspan
              x="307.06641"
              y="762.55681"
-             id="tspan404615">different videos, how they relate to </tspan><tspan
+             id="tspan17375">different videos, how they relate to </tspan><tspan
              x="307.06641"
              y="799.22343"
-             id="tspan404617">each other and what topic they </tspan><tspan
+             id="tspan17377">each other and what topic they </tspan><tspan
              x="307.06641"
              y="835.89006"
-             id="tspan404619">cover.
+             id="tspan17379">cover.
 </tspan><tspan
              x="307.06641"
              y="872.55669"
-             id="tspan404621">This part will hopefully help you </tspan><tspan
+             id="tspan17381">This part will hopefully help you </tspan><tspan
              x="307.06641"
              y="909.22331"
-             id="tspan404623">determine which video is best </tspan><tspan
+             id="tspan17383">determine which video is best </tspan><tspan
              x="307.06641"
              y="945.88994"
-             id="tspan404625">suited for your patient at every step </tspan><tspan
+             id="tspan17385">suited for your patient at every step </tspan><tspan
              x="307.06641"
              y="982.55656"
-             id="tspan404627">of the rehabilitation.</tspan></text>
+             id="tspan17387">of the rehabilitation.</tspan></text>
       </g>
     </g>
   </g>
   <g
      id="layer2"
      inkscape:label="How-to Layer"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-174.19111,-1.3960399)"
@@ -1315,7 +1326,7 @@
        inkscape:label="Name"><tspan
          x="-3595.3672"
          y="648.29383"
-         id="tspan404629">Corentin Glon</tspan></text>
+         id="tspan17389">Corentin Glon</tspan></text>
     <rect
        y="-29.603302"
        x="-1329.4446"
@@ -1327,7 +1338,19 @@
     <g
        id="g27503"
        transform="translate(-95.961144,-23.558296)"
-       inkscape:label="g27503">
+       inkscape:label="Instructions">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.25714164,0,0,0.25714164,-20.755888,16.929536)"
+         id="text27496"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect27498);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:label="Instructions1"><tspan
+           x="-3163.7305"
+           y="645.38797"
+           id="tspan17391">In the top left corner, you can see a number indicating the current slide. Please click on it to </tspan><tspan
+           x="-3163.7305"
+           y="678.72135"
+           id="tspan17393">open a listing of every slide, this way you can access a specific topic much faster.</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,104.39959,19.24035)"
@@ -1335,19 +1358,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46833)"><tspan
            x="-2638.8711"
            y="189.15286"
-           id="tspan404631">N
+           id="tspan17395">N
 </tspan><tspan
            x="-2638.8711"
            y="235.81948"
-           id="tspan404633">E
+           id="tspan17397">E
 </tspan><tspan
            x="-2638.8711"
            y="282.48611"
-           id="tspan404635">X
+           id="tspan17399">X
 </tspan><tspan
            x="-2638.8711"
            y="329.15273"
-           id="tspan404637">T</tspan></text>
+           id="tspan17401">T</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-121.99682,20.063922)"
@@ -1355,19 +1378,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46833-6)"><tspan
            x="-2638.8711"
            y="189.15286"
-           id="tspan404639">P
+           id="tspan17403">P
 </tspan><tspan
            x="-2638.8711"
            y="235.81948"
-           id="tspan404641">R
+           id="tspan17405">R
 </tspan><tspan
            x="-2638.8711"
            y="282.48611"
-           id="tspan404643">E
+           id="tspan17407">E
 </tspan><tspan
            x="-2638.8711"
            y="329.15273"
-           id="tspan404645">V
+           id="tspan17409">V
 </tspan></text>
       <rect
          y="-12.205534"
@@ -1377,12 +1400,6 @@
          id="rect-texte-nuit"
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:1.15461"
          inkscape:label="Frame2" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.25714164,0,0,0.25714164,-25.482222,17.690742)"
-         id="text81390"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect81392);display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="Instructions1" />
       <a
          id="a3354"
          onclick="sozi.player.moveToFrame(sozi.player.previousFrame.index)"
@@ -1428,7 +1445,7 @@
     <g
        id="g27503-5"
        transform="translate(-95.961144,-438.5721)"
-       inkscape:label="g27503">
+       inkscape:label="PrevNextArrows">
       <rect
          y="-12.205534"
          x="-841.992"
@@ -1491,21 +1508,39 @@
          style="font-size:26.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';white-space:pre;shape-inside:url(#rect119943)" />
     </g>
     <g
-       id="g27535"
-       transform="translate(-10.809686,294.02396)"
-       inkscape:label="g27535">
-      <text
-         xml:space="preserve"
-         transform="matrix(0.25714164,0,0,0.25714164,-106.00019,-300.89124)"
-         id="text27496"
-         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Light Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect27498);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:label="Instructions1"><tspan
-           x="-3163.7305"
-           y="645.38797"
-           id="tspan404647">In the top left corner, you can see a number indicating the current slide. Please click on it to </tspan><tspan
-           x="-3163.7305"
-           y="678.72135"
-           id="tspan404649">open a listing of every slide, this way you can access a specific topic much faster.</tspan></text>
+       id="g1412"
+       transform="translate(181.14561,-646.40215)"
+       inkscape:label="PrevArrow">
+      <rect
+         y="-12.205534"
+         x="-841.992"
+         height="207.83005"
+         width="277.10672"
+         id="rect1390"
+         style="display:inline;fill:#000000;fill-opacity:0.468919;stroke:#ff0000;stroke-width:1.155;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:label="Frame3" />
+      <a
+         id="a1400"
+         onclick="sozi.player.moveToFrame(sozi.player.previousFrame.index)"
+         inkscape:label="Previous Arrow"
+         transform="translate(-255.43548)"
+         style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g1398"
+           transform="matrix(-1,0,0,1,-1163.7478,3.0291671)"
+           style="stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             d="m -595.87751,65.91784 c -0.30618,10.153217 3.17523,14.401388 15.40098,16.866083"
+             id="path1394"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+             d="m -595.87751,99.650006 c -0.30618,-10.153217 3.17523,-14.401388 15.40098,-16.866083"
+             id="path1396"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </a>
     </g>
   </g>
 </svg>
