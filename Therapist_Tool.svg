@@ -26,14 +26,14 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="0.32"
-     inkscape:cx="4843.75"
-     inkscape:cy="-1353.125"
+     inkscape:cx="4759.375"
+     inkscape:cy="-5243.75"
      inkscape:window-width="1862"
      inkscape:window-height="1043"
      inkscape:window-x="58"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g970-7" />
+     inkscape:current-layer="g29301-3-3" />
   <defs
      id="defs2">
     <rect
@@ -342,306 +342,87 @@
        width="639.94092"
        height="252.34738"
        id="rect24711-75-5" />
+    <rect
+       x="2076.834"
+       y="431.08136"
+       width="639.94092"
+       height="252.34738"
+       id="rect24711-7-1" />
+    <rect
+       x="2076.834"
+       y="431.08136"
+       width="639.94092"
+       height="252.34738"
+       id="rect24711-8" />
+    <rect
+       x="2076.834"
+       y="431.08136"
+       width="639.94092"
+       height="252.34738"
+       id="rect24711-75-59" />
+    <rect
+       x="2076.834"
+       y="431.08136"
+       width="639.94092"
+       height="252.34738"
+       id="rect24711-75-5-7" />
+    <rect
+       x="1234.4423"
+       y="-745.87354"
+       width="458.19699"
+       height="80.827858"
+       id="rect12861-9-5" />
+    <rect
+       x="1546.1608"
+       y="-2500.2744"
+       width="936.42963"
+       height="655.28363"
+       id="rect151973-3-3" />
+    <rect
+       x="358.78629"
+       y="-1769.1188"
+       width="1189.3828"
+       height="439.75806"
+       id="rect228497-6-8" />
+    <marker
+       style="overflow:visible"
+       id="marker108808-83"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path108806-18" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker108808-8-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path108806-12-6" />
+    </marker>
+    <rect
+       x="2076.834"
+       y="431.08136"
+       width="639.94092"
+       height="252.34738"
+       id="rect234307" />
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Main Layer">
-    <g
-       id="g970-7-7"
-       inkscape:label="Contemplative"
-       transform="matrix(3.0828428,0,0,3.0828428,1542.2193,-1846.8667)"
-       sodipodi:insensitive="true">
-      <rect
-         style="fill:#dfbbf7;fill-opacity:1;stroke-width:0.270955"
-         id="fond-5"
-         width="852.22638"
-         height="284.63803"
-         x="-344.49753"
-         y="10.430511"
-         ry="2.2485249"
-         inkscape:label="Fond" />
-      <g
-         id="g29301-3-96"
-         inkscape:label="Diapo 1"
-         transform="rotate(-0.02427474,-171001.55,-105837.84)">
-        <g
-           id="g106417-2"
-           inkscape:label="Explications"
-           transform="translate(-22.805077,-6.9832932)">
-          <path
-             style="display:inline;fill:#24c4aa;fill-opacity:1;stroke:none;stroke-width:0.159891px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m -55.474975,111.98648 c 33.412981,-11.17325 71.876127,-7.25395 75.127935,10.6938 3.338229,18.42473 -1.911268,29.63233 -26.3978498,43.51001 -17.0260062,9.64944 -70.4624702,2.33057 -72.8845562,-12.31691 -3.09912,-18.74188 3.475539,-34.97189 24.154471,-41.8869 z"
-             id="path29369-6-9-9-1"
-             sodipodi:nodetypes="sssss"
-             inkscape:label="Fond" />
-          <text
-             xml:space="preserve"
-             id="text24709-6-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24711-7-4)"
-             inkscape:label="Corps Texte"
-             transform="matrix(0.1338173,5.6694928e-5,-5.6694928e-5,0.1338173,-346.10082,62.494381)"><tspan
-               x="2076.834"
-               y="446.00191"
-               id="tspan185862">The contemplative state of change is characterised by ambivalence. Patients in this state </tspan><tspan
-               x="2076.834"
-               y="466.00191"
-               id="tspan185864">are aware of the benefits of changing their behaviour, but they are not ready to make </tspan><tspan
-               x="2076.834"
-               y="486.00191"
-               id="tspan185866">the change yet and also find advantages in their current situation.
-</tspan><tspan
-               x="2076.834"
-               y="506.00191"
-               id="tspan185868">
-</tspan><tspan
-               x="2076.834"
-               y="526.00191"
-               id="tspan185870">In the case of RCRSP, ambivalence can have many forms : “I understand exercise will help </tspan><tspan
-               x="2076.834"
-               y="546.00191"
-               id="tspan185872">me… But it hurts !”, “Physical activity is probably great, but after a days’ work I need </tspan><tspan
-               x="2076.834"
-               y="566.00191"
-               id="tspan185874">rest”, “I know my exercise programme will help me, but it’s just not the right time, it will </tspan><tspan
-               x="2076.834"
-               y="586.00191"
-               id="tspan185876">probably be easier for me next week”. Procrastination is also common at this stage.
-</tspan><tspan
-               x="2076.834"
-               y="606.00191"
-               id="tspan185878">
-</tspan><tspan
-               x="2076.834"
-               y="626.00191"
-               id="tspan185880">Our objective here is to tip the scales !
-</tspan><tspan
-               x="2076.834"
-               y="646.00191"
-               id="tspan185882">
-</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.113299"
-             x="-45.18177"
-             y="115.67957"
-             id="text14418-4-8-8"
-             inkscape:label="Titre"><tspan
-               sodipodi:role="line"
-               id="tspan30556"
-               x="-45.18177"
-               y="115.67957">Contemplative State</tspan><tspan
-               sodipodi:role="line"
-               id="tspan30558"
-               x="-45.18177"
-               y="121.34447" /></text>
-        </g>
-        <path
-           style="fill:#3ca056;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -57.522509,258.70876 c -57.655051,32.43747 -166.821431,1.08397 -171.379501,-53.15964 -6.11814,-72.80918 58.70799,-69.71216 108.34937,-67.78309 124.5593232,4.84038 115.4509667,91.45009 63.030131,120.94273 z"
-           id="path2271-9-4"
-           sodipodi:nodetypes="ssss"
-           inkscape:label="Fond" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.5432px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.338581"
-           x="-208.10655"
-           y="161.7764"
-           id="text14418-4-1"
-           inkscape:label="Titre"><tspan
-             sodipodi:role="line"
-             id="tspan23648"
-             x="-208.10655"
-             y="161.7764"
-             style="stroke-width:0.338581">Contemplative State :</tspan><tspan
-             sodipodi:role="line"
-             id="tspan23650"
-             x="-208.10655"
-             y="178.7054"
-             style="stroke-width:0.338581">Ambivalence</tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.29180052,1.2362833e-4,-1.2362833e-4,0.29180052,-818.88225,57.748636)"
-           id="text24709-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24711-4)"
-           inkscape:label="Corps Texte"><tspan
-             x="2076.834"
-             y="446.00191"
-             id="tspan185884">Patients should understand how moving and exercising will help them, and we should </tspan><tspan
-             x="2076.834"
-             y="466.00191"
-             id="tspan185886">help them engage in active rehabilitation. Those videos are meant to weigh toward </tspan><tspan
-             x="2076.834"
-             y="486.00191"
-             id="tspan185888">active interventions in the decisional balance.
-</tspan><tspan
-             x="2076.834"
-             y="506.00191"
-             id="tspan185890">
-</tspan><tspan
-             x="2076.834"
-             y="526.00191"
-             id="tspan185892">You can find some more information on this state of change in the upper-right (zoom </tspan><tspan
-             x="2076.834"
-             y="546.00191"
-             id="tspan185894">with mouse-wheel or pinch), or drag screen to the right to find the videos.
-</tspan><tspan
-             x="2076.834"
-             y="566.00191"
-             id="tspan185896">
-</tspan><tspan
-             x="2076.834"
-             y="586.00191"
-             id="tspan185898">You can also go to the next state by left clicking, swiping, pressing the right arrow or by </tspan><tspan
-             x="2076.834"
-             y="606.00191"
-             id="tspan185900">using the menu in the top-left !
-</tspan><tspan
-             x="2076.834"
-             y="626.00191"
-             id="tspan185902">
-</tspan><tspan
-             x="2076.834"
-             y="646.00191"
-             id="tspan185904">
-</tspan></text>
-      </g>
-      <g
-         id="g49480-8-5"
-         inkscape:label="Diapo 2"
-         transform="matrix(1.0863366,0,0,1.0863366,-174.19484,376.44232)">
-        <path
-           style="display:inline;fill:#9800c3;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 371.20744,-87.121182 c -51.26309,5.386791 -97.10232,-12.020793 -93.24045,-65.402328 3.86187,-53.38151 39.80499,-58.61188 71.71055,-53.08612 31.90556,5.5258 115.52712,8.32776 104.49555,61.24995 -11.03158,52.922195 -82.96565,57.238498 -82.96565,57.238498 z"
-           id="path29369-3-0-3"
-           sodipodi:nodetypes="csssc"
-           inkscape:label="FondDiapo" />
-        <rect
-           style="fill:#00080f;fill-opacity:1;stroke-width:0.484398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.7"
-           id="rect139346-2-8"
-           width="95.550766"
-           height="53.747307"
-           x="287.46729"
-           y="-184.45419"
-           ry="1.5833045"
-           inkscape:label="Video" />
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,-27.033223,-2.3741899)"
-           id="text12859-1-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12861-9-4)"
-           inkscape:label="Titre"><tspan
-             x="1234.4414"
-             y="-708.57336"
-             id="tspan185906">Imaging in RCRSP</tspan></text>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.07339221,0,0,0.07828375,270.10174,19.60241)"
-           id="text151971-0-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect151973-3-7)"
-           inkscape:label="Text"><tspan
-             x="1546.1602"
-             y="-2462.9737"
-             id="tspan185908">This video explains the limited role of imaging in </tspan><tspan
-             x="1546.1602"
-             y="-2412.9737"
-             id="tspan185910">RCRSP. It tries to put imaging findings in </tspan><tspan
-             x="1546.1602"
-             y="-2362.9737"
-             id="tspan185912">perspective, and reinforces the idea that one can </tspan><tspan
-             x="1546.1602"
-             y="-2312.9737"
-             id="tspan185914">have perfect shoulder function in spite of them.
-</tspan><tspan
-             x="1546.1602"
-             y="-2262.9737"
-             id="tspan185916">
-</tspan><tspan
-             x="1546.1602"
-             y="-2212.9737"
-             id="tspan185918">The references used in the videos are only found on </tspan><tspan
-             x="1546.1602"
-             y="-2162.9737"
-             id="tspan185920">the youtube page, go there if you want them !
-</tspan><tspan
-             x="1546.1602"
-             y="-2112.9737"
-             id="tspan185922">
-</tspan><tspan
-             x="1546.1602"
-             y="-2062.9737"
-             id="tspan185924">Remember you can click on the QR code to send an </tspan><tspan
-             x="1546.1602"
-             y="-2012.9737"
-             id="tspan185926">email, and here are a few questions you can use to </tspan><tspan
-             x="1546.1602"
-             y="-1962.9737"
-             id="tspan185928">get your patient’s feelings about this video.
-</tspan></text>
-        <a
-           id="a219132-5-1"
-           xlink:href="mailto:patient@email.com?subject=Video from your PT&amp;body=Please have a look at this video : https://www.youtube.com/watch?v=EoPGVN0Hv-8 "
-           xlink:show="new"
-           xlink:title="Send email"
-           transform="matrix(1.1255339,0,0,1.1255339,-47.10676,48.320769)"
-           inkscape:label="QR">
-          <g
-             inkscape:label="QR Code: https://youtu.be/SfnSX2Bs3ws"
-             transform="matrix(0.264583,0,0,0.264583,383.10635,-163.72348)"
-             id="g218894-1-8">
-            <g
-               style="fill:#000000;stroke:none"
-               id="g218892-1-9">
-              <path
-                 d="m 115.6,116 h -7.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -20,0 H 88.4 C 88.179086,116 88,115.82091 88,115.6 V 112 h 7.6 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -12,0 H 76.4 C 76.179086,116 76,115.82091 76,115.6 V 112 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 V 108 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 v -3.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 7.6 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -16,0 H 64.4 C 64.179086,116 64,115.82091 64,115.6 V 112 h 4 v 3.6 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -11.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 0.179086,0.4 0.4,0.4 H 64 v 4 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -7.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 7.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 H 16.4 C 16.179086,116 16,115.82091 16,115.6 V 88.4 C 16,88.179086 16.179086,88 16.4,88 h 27.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 27.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 60,-4 h -3.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 V 108 h 4 v 3.6 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -28,0 H 68 v -4 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 v -3.2 c 0,-0.22091 -0.179086,-0.4 -0.4,-0.4 h -3.2 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.6 h -4 v -8 h 3.6 c 0.220914,0 0.4,-0.179086 0.4,-0.4 V 96.4 C 68,96.179086 68.179086,96 68.4,96 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.6 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 V 112 Z M 40,111.6 V 92.4 C 40,92.179086 39.820914,92 39.6,92 H 20.4 C 20.179086,92 20,92.179086 20,92.4 v 19.2 c 0,0.22091 0.179086,0.4 0.4,0.4 h 19.2 c 0.220914,0 0.4,-0.17909 0.4,-0.4 z m 75.6,-3.6 h -3.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -8,0 H 104 v -3.6 c 0,-0.22091 -0.17909,-0.4 -0.4,-0.4 h -3.2 c -0.22091,0 -0.4,0.17909 -0.4,0.4 v 3.6 h -7.6 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -7.2 C 92,100.17909 91.820914,100 91.6,100 H 80.4 C 80.179086,100 80,99.820914 80,99.6 V 96.4 C 80,96.179086 79.820914,96 79.6,96 H 76.4 C 76.179086,96 76,95.820914 76,95.6 V 92.4 C 76,92.179086 75.820914,92 75.6,92 H 72.4 C 72.179086,92 72,91.820914 72,91.6 V 88.4 C 72,88.179086 72.179086,88 72.4,88 h 3.2 C 75.820914,88 76,87.820914 76,87.6 V 80 h 3.6 C 79.820914,80 80,79.820914 80,79.6 V 72.4 C 80,72.179086 80.179086,72 80.4,72 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 95.6 C 95.820914,80 96,79.820914 96,79.6 V 76.4 C 96,76.179086 95.820914,76 95.6,76 H 88.4 C 88.179086,76 88,75.820914 88,75.6 V 68.4 C 88,68.179086 87.820914,68 87.6,68 H 80.4 C 80.179086,68 80,67.820914 80,67.6 V 64.4 C 80,64.179086 80.179086,64 80.4,64 h 3.2 C 83.820914,64 84,63.820914 84,63.6 V 56.4 C 84,56.179086 83.820914,56 83.6,56 H 80.4 C 80.179086,56 80,55.820914 80,55.6 V 48 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 C 87.820914,52 88,51.820914 88,51.6 V 48.4 C 88,48.179086 88.179086,48 88.4,48 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 H 92.4 C 92.179086,52 92,52.179086 92,52.4 v 3.2 C 92,55.820914 91.820914,56 91.6,56 H 88.4 C 88.179086,56 88,56.179086 88,56.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 96 v 11.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.6 v 7.6 c 0,0.220914 0.17909,0.4 0.4,0.4 h 7.6 v 3.6 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -3.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 7.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -3.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 3.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -7.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 3.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 7.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -72,0 H 24.4 C 24.179086,108 24,107.82091 24,107.6 V 96.4 C 24,96.179086 24.179086,96 24.4,96 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 16,-4 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 H 52 v 3.6 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 12,-4 H 52 V 96.4 C 52,96.179086 52.179086,96 52.4,96 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 100 Z M 96,95.6 V 84.4 C 96,84.179086 95.820914,84 95.6,84 H 84.4 C 84.179086,84 84,84.179086 84,84.4 v 11.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 95.6 C 95.820914,96 96,95.820914 96,95.6 Z M 91.6,92 H 88.4 C 88.179086,92 88,91.820914 88,91.6 V 88.4 C 88,88.179086 88.179086,88 88.4,88 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -32,0 H 56.4 C 56.179086,92 56,91.820914 56,91.6 V 88.4 C 56,88.179086 55.820914,88 55.6,88 H 52.4 C 52.179086,88 52,88.179086 52,88.4 v 3.2 C 52,91.820914 51.820914,92 51.6,92 H 48.4 C 48.179086,92 48,91.820914 48,91.6 V 84.4 C 48,84.179086 47.820914,84 47.6,84 H 36.4 C 36.179086,84 36,83.820914 36,83.6 V 76.4 C 36,76.179086 36.179086,76 36.4,76 H 40 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 15.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 64,87.820914 63.820914,88 63.6,88 H 60.4 C 60.179086,88 60,88.179086 60,88.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 12,-8 H 68.4 C 68.179086,84 68,83.820914 68,83.6 V 72 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 80 H 72.4 C 72.179086,80 72,80.179086 72,80.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -44,0 H 16.4 C 16.179086,84 16,83.820914 16,83.6 V 80.4 C 16,80.179086 16.179086,80 16.4,80 h 3.2 C 19.820914,80 20,79.820914 20,79.6 V 76 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 H 28 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 84,-4 H 108 v -4 h 4 v 3.6 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -80,0 H 28 v -4 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 84,-4 H 112 V 68.4 C 112,68.179086 111.82091,68 111.6,68 H 108 v -3.6 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -8,0 h -3.2 C 104.17909,76 104,75.820914 104,75.6 V 72.4 C 104,72.179086 103.82091,72 103.6,72 H 100 v -7.6 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.6 v 8 z m -44,0 H 48.4 C 48.179086,76 48,75.820914 48,75.6 V 72.4 C 48,72.179086 48.179086,72 48.4,72 h 3.2 C 51.820914,72 52,71.820914 52,71.6 V 68 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 H 64 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -20,0 H 40 v -4 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -16,0 H 24 V 64.4 C 24,64.179086 24.179086,64 24.4,64 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 32,71.820914 31.820914,72 31.6,72 H 28.4 C 28.179086,72 28,72.179086 28,72.4 V 76 Z m -8,0 H 16.4 C 16.179086,76 16,75.820914 16,75.6 V 72.4 C 16,72.179086 16.179086,72 16.4,72 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 76 Z m 56,-4 H 72 V 68.4 C 72,68.179086 72.179086,68 72.4,68 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 64 V 68.4 C 64,68.179086 64.179086,68 64.4,68 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 72 Z m -28,0 H 36.4 C 36.179086,72 36,71.820914 36,71.6 V 64 h 7.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 44,67.820914 43.820914,68 43.6,68 H 40.4 C 40.179086,68 40,68.179086 40,68.4 V 72 Z m 20,-4 H 56 V 64.4 C 56,64.179086 55.820914,64 55.6,64 H 52 V 60.4 C 52,60.179086 52.179086,60 52.4,60 h 23.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 76,63.820914 75.820914,64 75.6,64 H 60.4 C 60.179086,64 60,64.179086 60,64.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 48.4 C 48.179086,68 48,67.820914 48,67.6 V 64.4 C 48,64.179086 48.179086,64 48.4,64 H 52 v 4 z m -32,0 H 16.4 C 16.179086,68 16,67.820914 16,67.6 V 48.4 C 16,48.179086 16.179086,48 16.4,48 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 24,51.820914 23.820914,52 23.6,52 H 20.4 C 20.179086,52 20,52.179086 20,52.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 28,59.820914 27.820914,60 27.6,60 H 20.4 C 20.179086,60 20,60.179086 20,60.4 v 7.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 16,-4 H 32.4 C 32.179086,64 32,63.820914 32,63.6 V 56.4 C 32,56.179086 32.179086,56 32.4,56 H 36 v 8 z m 80,-4 h -7.2 c -0.22091,0 -0.4,-0.179086 -0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 V 52 h 3.6 c 0.22091,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -16,0 H 96 V 56.4 C 96,56.179086 96.179086,56 96.4,56 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -52,0 H 40.4 C 40.179086,60 40,59.820914 40,59.6 V 56 h 3.6 C 43.820914,56 44,55.820914 44,55.6 V 52.4 C 44,52.179086 43.820914,52 43.6,52 H 40 V 48.4 C 40,48.179086 40.179086,48 40.4,48 H 48 v 11.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 20,-4 H 64.4 C 64.179086,56 64,55.820914 64,55.6 V 52 h 4 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -12,0 H 52.4 C 52.179086,56 52,55.820914 52,55.6 V 52.4 C 52,52.179086 52.179086,52 52.4,52 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -16,0 H 36 V 52.4 C 36,52.179086 36.179086,52 36.4,52 H 40 v 4 z m 72,-4 h -7.2 c -0.22091,0 -0.4,-0.179086 -0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.179086 0.4,0.4 V 52 Z m -36,0 H 68 V 48.4 C 68,48.179086 68.179086,48 68.4,48 H 76 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -12,0 H 60.4 C 60.179086,52 60,51.820914 60,51.6 V 48 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 V 52 Z m -32,0 H 28.4 C 28.179086,52 28,51.820914 28,51.6 V 48.4 C 28,48.179086 28.179086,48 28.4,48 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 48,-4 H 76 v -4 h 4 v 4 z m -20,0 H 56.4 C 56.179086,48 56,47.820914 56,47.6 V 36.4 C 56,36.179086 55.820914,36 55.6,36 H 52.4 C 52.179086,36 52,36.179086 52,36.4 V 47.6 C 52,47.820914 51.820914,48 51.6,48 H 48 V 32.4 C 48,32.179086 48.179086,32 48.4,32 h 3.2 C 51.820914,32 52,31.820914 52,31.6 V 28 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 48 Z m 56,-4 H 88.4 C 88.179086,44 88,43.820914 88,43.6 V 16.4 C 88,16.179086 88.179086,16 88.4,16 h 27.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 27.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -32,0 H 80 V 40.4 C 80,40.179086 79.820914,40 79.6,40 H 76 V 36.4 C 76,36.179086 75.820914,36 75.6,36 H 68.4 C 68.179086,36 68,36.179086 68,36.4 v 7.2 C 68,43.820914 67.820914,44 67.6,44 H 64.4 C 64.179086,44 64,43.820914 64,43.6 V 32.4 C 64,32.179086 64.179086,32 64.4,32 h 7.2 C 71.820914,32 72,31.820914 72,31.6 V 24 h 3.6 C 75.820914,24 76,23.820914 76,23.6 V 20.4 C 76,20.179086 76.179086,20 76.4,20 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 C 80,27.820914 79.820914,28 79.6,28 H 76.4 C 76.179086,28 76,28.179086 76,28.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 72.4 C 72.179086,44 72,43.820914 72,43.6 V 40.4 C 72,40.179086 72.179086,40 72.4,40 H 76 v 4 z m -32,0 H 16.4 C 16.179086,44 16,43.820914 16,43.6 V 16.4 C 16,16.179086 16.179086,16 16.4,16 h 27.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 43.6 C 44,43.820914 43.820914,44 43.6,44 Z M 112,39.6 V 20.4 C 112,20.179086 111.82091,20 111.6,20 H 92.4 C 92.179086,20 92,20.179086 92,20.4 v 19.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 19.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 z m -72,0 V 20.4 C 40,20.179086 39.820914,20 39.6,20 H 20.4 C 20.179086,20 20,20.179086 20,20.4 v 19.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 39.6 C 39.820914,40 40,39.820914 40,39.6 Z M 107.6,36 H 96.4 C 96.179086,36 96,35.820914 96,35.6 V 24.4 C 96,24.179086 96.179086,24 96.4,24 h 11.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -72,0 H 24.4 C 24.179086,36 24,35.820914 24,35.6 V 24.4 C 24,24.179086 24.179086,24 24.4,24 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 16,-8 H 48.4 C 48.179086,28 48,27.820914 48,27.6 V 20.4 C 48,20.179086 48.179086,20 48.4,20 h 7.2 C 55.820914,20 56,19.820914 56,19.6 V 16.4 C 56,16.179086 56.179086,16 56.4,16 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 C 60,23.820914 59.820914,24 59.6,24 H 52.4 C 52.179086,24 52,24.179086 52,24.4 V 28 Z m 20,-4 H 68.4 C 68.179086,24 68,23.820914 68,23.6 V 20.4 C 68,20.179086 68.179086,20 68.4,20 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 24 Z"
-                 id="path218890-0-6" />
-            </g>
-          </g>
-        </a>
-        <text
-           xml:space="preserve"
-           transform="matrix(0.07209926,0,0,0.07209926,270.13032,-1.7284612)"
-           id="text228495-8-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect228497-6-6)"
-           inkscape:label="Questions"><tspan
-             x="358.78711"
-             y="-1731.8195"
-             id="tspan185930">-At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
-             x="358.78711"
-             y="-1681.8195"
-             id="tspan185932">remember what this is ?
-</tspan><tspan
-             x="358.78711"
-             y="-1631.8195"
-             id="tspan185934">
-</tspan><tspan
-             x="358.78711"
-             y="-1581.8195"
-             id="tspan185936">-This video gives general facts about imaging, do you think this </tspan><tspan
-             x="358.78711"
-             y="-1531.8195"
-             id="tspan185938">relates to your specific situation ?
-</tspan></text>
-      </g>
-      <g
-         id="g1035-3"
-         inkscape:label="Video arrow">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:1.4425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker108808-3);paint-order:normal"
-           d="m -8.6391564,190.43026 c 14.2145858,15.25746 39.6306984,18.65582 53.8781854,11.57121 21.617927,-10.74959 29.980269,-5.62069 53.874985,-3.18032 0,0 8.670376,0.24505 23.599876,1.56744"
-           id="path108526-3"
-           sodipodi:nodetypes="cssc"
-           inkscape:label="path108526" />
-        <text
-           xml:space="preserve"
-           id="text116924-3"
-           style="font-size:10.5833px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';white-space:pre"
-           transform="translate(0.80949891,-1.1071495)"><textPath
-             xlink:href="#path108526-3"
-             id="textPath123462-8"><tspan
-               id="tspan116928-6">Videos </tspan></textPath></text>
-      </g>
-    </g>
     <g
        id="g970-7"
        inkscape:label="Pre-contemplative"
@@ -658,7 +439,7 @@
       <g
          id="g29301-3"
          inkscape:label="Diapo 1"
-         transform="rotate(-0.02427474,-171001.55,-105797.36)">
+         transform="rotate(-0.02427474,-171001.55,-105803.08)">
         <g
            id="g106417"
            inkscape:label="Explications">
@@ -676,43 +457,43 @@
              transform="matrix(0.12699289,5.3803603e-5,-5.3803603e-5,0.12699289,-308.28083,63.575109)"><tspan
                x="2076.834"
                y="446.00191"
-               id="tspan185940">Generally, patients in the pre-contemplative state of change don't realise they have a </tspan><tspan
+               id="tspan318582">Generally, patients in the pre-contemplative state of change don't realise they have a </tspan><tspan
                x="2076.834"
                y="466.00191"
-               id="tspan185942">problematic behaviour.
+               id="tspan318584">problematic behaviour.
 </tspan><tspan
                x="2076.834"
                y="486.00191"
-               id="tspan185944">
+               id="tspan318586">
 </tspan><tspan
                x="2076.834"
                y="506.00191"
-               id="tspan185946">In our specific context of exercise as a treatment of RCRSP, the patients in this state </tspan><tspan
+               id="tspan318588">In our specific context of exercise as a treatment of RCRSP, the patients in this state </tspan><tspan
                x="2076.834"
                y="526.00191"
-               id="tspan185948">typically think their shoulder problem is anatomical, and the solution will be passive </tspan><tspan
+               id="tspan318590">typically think their shoulder problem is anatomical, and the solution will be passive </tspan><tspan
                x="2076.834"
                y="546.00191"
-               id="tspan185950">and/or external (rest, massage, injection, surgery…).
+               id="tspan318592">and/or external (rest, massage, injection, surgery…).
 </tspan><tspan
                x="2076.834"
                y="566.00191"
-               id="tspan185952">
+               id="tspan318594">
 </tspan><tspan
                x="2076.834"
                y="586.00191"
-               id="tspan185954">Since patients don’t realise there is a problem, providing them a solution is meaningless. </tspan><tspan
+               id="tspan318596">Since patients don’t realise there is a problem, providing them a solution is meaningless. </tspan><tspan
                x="2076.834"
                y="606.00191"
-               id="tspan185956">Our position here will be to simply raise doubts.
+               id="tspan318598">Our position here will be to simply raise doubts.
 </tspan><tspan
                x="2076.834"
                y="626.00191"
-               id="tspan185958">
+               id="tspan318600">
 </tspan><tspan
                x="2076.834"
                y="646.00191"
-               id="tspan185960">
+               id="tspan318602">
 </tspan></text>
           <text
              xml:space="preserve"
@@ -761,51 +542,51 @@
            inkscape:label="Corps Texte"><tspan
              x="2076.834"
              y="446.00191"
-             id="tspan185964">The point of this section is to <tspan
+             id="tspan318606">The point of this section is to <tspan
    style="font-weight:bold"
-   id="tspan185962">fight against a patho-anatomical conception</tspan> of RCRSP.
+   id="tspan318604">fight against a patho-anatomical conception</tspan> of RCRSP.
 </tspan><tspan
              x="2076.834"
              y="466.00191"
-             id="tspan185968">It is aimed at patients that believe their shoulder condition will <tspan
+             id="tspan318610">It is aimed at patients that believe their shoulder condition will <tspan
    style="font-weight:bold"
-   id="tspan185966">improve from passive </tspan></tspan><tspan
+   id="tspan318608">improve from passive </tspan></tspan><tspan
              x="2076.834"
              y="486.00191"
-             id="tspan185972"><tspan
+             id="tspan318614"><tspan
    style="font-weight:bold"
-   id="tspan185970">modalities</tspan>.
+   id="tspan318612">modalities</tspan>.
 </tspan><tspan
              x="2076.834"
              y="506.00191"
-             id="tspan185974">
+             id="tspan318616">
 </tspan><tspan
              x="2076.834"
              y="526.00191"
-             id="tspan185980">Click on the <tspan
+             id="tspan318622">Click on the <tspan
    style="font-weight:bold"
-   id="tspan185976">arrows</tspan> if you want to see <tspan
+   id="tspan318618">arrows</tspan> if you want to see <tspan
    style="font-weight:bold"
-   id="tspan185978">more info</tspan> on the pre-contemplative state, or if </tspan><tspan
+   id="tspan318620">more info</tspan> on the pre-contemplative state, or if </tspan><tspan
              x="2076.834"
              y="546.00191"
-             id="tspan185984">you want to see the <tspan
+             id="tspan318626">you want to see the <tspan
    style="font-weight:bold"
-   id="tspan185982">videos</tspan>.
+   id="tspan318624">videos</tspan>.
 </tspan><tspan
              x="2076.834"
              y="566.00191"
-             id="tspan185986">
+             id="tspan318628">
 </tspan><tspan
              x="2076.834"
              y="586.00191"
-             id="tspan185990">Remember you can use the<tspan
+             id="tspan318632">Remember you can use the<tspan
    style="font-weight:bold"
-   id="tspan185988"> menu in the top-left corner</tspan>.
+   id="tspan318630"> menu in the top-left corner</tspan>.
 </tspan><tspan
              x="2076.834"
              y="606.00191"
-             id="tspan185992">
+             id="tspan318634">
 </tspan></text>
         <a
            id="a72191"
@@ -819,9 +600,9 @@
              inkscape:label="GoToContemplative"><tspan
                x="2076.834"
                y="446.00191"
-               id="tspan185996"><tspan
+               id="tspan318638"><tspan
                  style="font-weight:bold"
-                 id="tspan185994">Next Section : Contemplative State
+                 id="tspan318636">Next Section : Contemplative State
 </tspan></tspan></text>
         </a>
       </g>
@@ -847,9 +628,9 @@
              inkscape:label="GoToContemplative"><tspan
                x="2076.834"
                y="446.00191"
-               id="tspan186000"><tspan
+               id="tspan318642"><tspan
                  style="font-weight:bold"
-                 id="tspan185998">Back to Pre-Contemplative
+                 id="tspan318640">Back to Pre-Contemplative
 </tspan></tspan></text>
         </a>
         <rect
@@ -869,7 +650,7 @@
            inkscape:label="Titre"><tspan
              x="1234.4414"
              y="-708.57336"
-             id="tspan186002">Imaging in RCRSP</tspan></text>
+             id="tspan318644">Imaging in RCRSP</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.07339221,0,0,0.07828375,270.10174,19.60241)"
@@ -878,53 +659,53 @@
            inkscape:label="Text"><tspan
              x="1546.1602"
              y="-2462.9737"
-             id="tspan186006">This video explains the <tspan
+             id="tspan318648">This video explains the <tspan
    style="font-weight:bold"
-   id="tspan186004">limited role of imaging</tspan> in </tspan><tspan
+   id="tspan318646">limited role of imaging</tspan> in </tspan><tspan
              x="1546.1602"
              y="-2412.9737"
-             id="tspan186008">RCRSP. It tries to put imaging findings in </tspan><tspan
+             id="tspan318650">RCRSP. It tries to put imaging findings in </tspan><tspan
              x="1546.1602"
              y="-2362.9737"
-             id="tspan186010">perspective, and reinforces the idea that one can </tspan><tspan
+             id="tspan318652">perspective, and reinforces the idea that one can </tspan><tspan
              x="1546.1602"
              y="-2312.9737"
-             id="tspan186012">have perfect shoulder function in spite of them.
+             id="tspan318654">have perfect shoulder function in spite of them.
 </tspan><tspan
              x="1546.1602"
              y="-2262.9737"
-             id="tspan186014">
+             id="tspan318656">
 </tspan><tspan
              x="1546.1602"
              y="-2212.9737"
-             id="tspan186018">The <tspan
+             id="tspan318660">The <tspan
    style="font-weight:bold"
-   id="tspan186016">references</tspan> used in the videos are only found </tspan><tspan
+   id="tspan318658">references</tspan> used in the videos are only found </tspan><tspan
              x="1546.1602"
              y="-2162.9737"
-             id="tspan186022">on the <tspan
+             id="tspan318664">on the <tspan
    style="font-weight:bold"
-   id="tspan186020">youtube page</tspan>, go there if you want them !
+   id="tspan318662">youtube page</tspan>, go there if you want them !
 </tspan><tspan
              x="1546.1602"
              y="-2112.9737"
-             id="tspan186024">
+             id="tspan318666">
 </tspan><tspan
              x="1546.1602"
              y="-2062.9737"
-             id="tspan186028">Remember you can click on the <tspan
+             id="tspan318670">Remember you can click on the <tspan
    style="font-weight:bold"
-   id="tspan186026">QR code</tspan> to send an </tspan><tspan
+   id="tspan318668">QR code</tspan> to send an </tspan><tspan
              x="1546.1602"
              y="-2012.9737"
-             id="tspan186034"><tspan
+             id="tspan318676"><tspan
    style="font-weight:bold"
-   id="tspan186030">email</tspan>, and here are a few <tspan
+   id="tspan318672">email</tspan>, and here are a few <tspan
    style="font-weight:bold"
-   id="tspan186032">questions</tspan> you can use to </tspan><tspan
+   id="tspan318674">questions</tspan> you can use to </tspan><tspan
              x="1546.1602"
              y="-1962.9737"
-             id="tspan186036">get your patient’s feelings about this video.
+             id="tspan318678">get your patient’s feelings about this video.
 </tspan></text>
         <a
            id="a219132-5"
@@ -954,21 +735,21 @@
            inkscape:label="Questions"><tspan
              x="358.78711"
              y="-1731.8195"
-             id="tspan186038">Q1 : At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
+             id="tspan318680">Q1 : At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
              x="358.78711"
              y="-1681.8195"
-             id="tspan186040">remember what this is ?
+             id="tspan318682">remember what this is ?
 </tspan><tspan
              x="358.78711"
              y="-1631.8195"
-             id="tspan186042">
+             id="tspan318684">
 </tspan><tspan
              x="358.78711"
              y="-1581.8195"
-             id="tspan186044">Q2 : This video gives general facts about imaging, do you think </tspan><tspan
+             id="tspan318686">Q2 : This video gives general facts about imaging, do you think </tspan><tspan
              x="358.78711"
              y="-1531.8195"
-             id="tspan186046">this relates to your specific situation ?
+             id="tspan318688">this relates to your specific situation ?
 </tspan></text>
       </g>
       <a
@@ -1017,6 +798,391 @@
       </a>
     </g>
     <g
+       id="g970-7-4"
+       inkscape:label="Contemplative"
+       transform="matrix(3.0828428,0,0,3.0828428,1542.2193,-1846.8667)">
+      <rect
+         style="fill:#e4bbfc;fill-opacity:1;stroke-width:0.270955"
+         id="fond-3"
+         width="852.22638"
+         height="284.63803"
+         x="-344.49753"
+         y="10.430511"
+         ry="2.2485249"
+         inkscape:label="Fond" />
+      <g
+         id="g29301-3-3"
+         inkscape:label="Diapo 1"
+         transform="rotate(-0.02427474,-171001.55,-105807.7)">
+        <path
+           style="fill:#35ba45;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -29.351805,217.70142 c -29.115473,67.09456 -161.521855,69.76568 -177.510895,24.18992 -45.58797,-129.94565 45.60042,-112.33656 95.25978,-113.72816 127.533508,-3.57385 82.251115,89.53824 82.251115,89.53824 z"
+           id="path2271-9-8"
+           sodipodi:nodetypes="cssc"
+           inkscape:label="Fond" />
+        <g
+           id="g106417-3"
+           inkscape:label="Explications">
+          <path
+             style="display:inline;fill:#14a072;fill-opacity:1;stroke:none;stroke-width:0.159891px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -28.215468,106.9165 c 30.9554276,-18.632923 56.965773,-20.613949 64.603132,10.26428 4.49586,18.17696 -1.006711,39.29868 -25.493295,53.17636 -17.0260067,9.64944 -71.367025,-7.33576 -73.789111,-21.98326 -3.09912,-18.74188 34.679274,-41.45738 34.679274,-41.45738 z"
+             id="path29369-6-9-9-8"
+             sodipodi:nodetypes="csssc"
+             inkscape:label="Fond" />
+          <text
+             xml:space="preserve"
+             id="text24709-6-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24711-7-1)"
+             inkscape:label="Corps Texte"
+             transform="matrix(0.12699289,5.3803603e-5,-5.3803603e-5,0.12699289,-308.28083,63.575109)"><tspan
+               x="2076.834"
+               y="446.00191"
+               id="tspan318690">The contemplative state of change is characterised by ambivalence. Patients in this state </tspan><tspan
+               x="2076.834"
+               y="466.00191"
+               id="tspan318692">are aware of the benefits of changing their behaviour, but they are not ready to make </tspan><tspan
+               x="2076.834"
+               y="486.00191"
+               id="tspan318694">the change yet and also find advantages in their current situation.
+</tspan><tspan
+               x="2076.834"
+               y="506.00191"
+               id="tspan318696">
+</tspan><tspan
+               x="2076.834"
+               y="526.00191"
+               id="tspan318698">In the case of RCRSP, ambivalence can have many forms : “I understand exercise will help </tspan><tspan
+               x="2076.834"
+               y="546.00191"
+               id="tspan318700">me… But it hurts !”, “Physical activity is probably great, but after a days’ work I need </tspan><tspan
+               x="2076.834"
+               y="566.00191"
+               id="tspan318702">rest”, “I know my exercise programme will help me, but it’s just not the right time, it will </tspan><tspan
+               x="2076.834"
+               y="586.00191"
+               id="tspan318704">probably be easier for me next week”. Procrastination is also common at this stage.
+</tspan><tspan
+               x="2076.834"
+               y="606.00191"
+               id="tspan318706">
+</tspan><tspan
+               x="2076.834"
+               y="626.00191"
+               id="tspan318708">Our objective here is to tip the scales !
+</tspan><tspan
+               x="2076.834"
+               y="646.00191"
+               id="tspan318710">
+</tspan><tspan
+               x="2076.834"
+               y="666.00191"
+               id="tspan318712">
+</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.113299"
+             x="-28.041565"
+             y="113.21684"
+             id="text14418-4-8-0"
+             inkscape:label="Titre"><tspan
+               sodipodi:role="line"
+               id="tspan106312-4"
+               x="-28.041565"
+               y="113.21684">Contemplative State</tspan><tspan
+               sodipodi:role="line"
+               id="tspan106314-8"
+               x="-28.041565"
+               y="118.88174" /></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5014px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.312537"
+           x="-206.4935"
+           y="160.56499"
+           id="text14418-4-89"
+           inkscape:label="Titre"><tspan
+             sodipodi:role="line"
+             id="tspan1747-7"
+             x="-206.4935"
+             y="160.56499"
+             style="stroke-width:0.312537">Contemplative State :</tspan><tspan
+             sodipodi:role="line"
+             x="-206.4935"
+             y="176.19174"
+             style="stroke-width:0.312537"
+             id="tspan211464">Ambivalence</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458331,1.1209711e-4,-1.1209711e-4,0.26458331,-755.97401,71.357016)"
+           id="text24709-64"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect24711-8)"
+           inkscape:label="Corps Texte"><tspan
+             x="2076.834"
+             y="446.00191"
+             id="tspan318716">Patients should understand how <tspan
+   style="font-weight:bold"
+   id="tspan318714">moving and exercising</tspan> will help them, and we should </tspan><tspan
+             x="2076.834"
+             y="466.00191"
+             id="tspan318720">help them <tspan
+   style="font-weight:bold"
+   id="tspan318718">engage in active rehabilitation</tspan>. Those videos are meant to weigh toward </tspan><tspan
+             x="2076.834"
+             y="486.00191"
+             id="tspan318724">active interventions in the <tspan
+   style="font-weight:bold"
+   id="tspan318722">decisional balance</tspan>.
+</tspan><tspan
+             x="2076.834"
+             y="506.00191"
+             id="tspan318726">
+</tspan><tspan
+             x="2076.834"
+             y="526.00191"
+             id="tspan318732">You can find some <tspan
+   style="font-weight:bold"
+   id="tspan318728">more information</tspan> on this state of change, or go to <tspan
+   style="font-weight:bold"
+   id="tspan318730">the videos</tspan> by </tspan><tspan
+             x="2076.834"
+             y="546.00191"
+             id="tspan318734">clicking on the arrows.
+</tspan><tspan
+             x="2076.834"
+             y="566.00191"
+             id="tspan318736">
+</tspan></text>
+        <a
+           id="a72191-3"
+           xlink:href="#preparation"
+           transform="matrix(1.1000667,0,0,1.1000667,19.794723,-35.335984)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458331,1.1209711e-4,-1.1209711e-4,0.26458331,-744.30807,124.71217)"
+             id="text24709-9-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;white-space:pre;shape-inside:url(#rect24711-75-59)"
+             inkscape:label="GoToContemplative"><tspan
+               x="2076.834"
+               y="446.00191"
+               id="tspan318740"><tspan
+                 style="font-weight:bold"
+                 id="tspan318738">Next Section : Preparation State
+</tspan></tspan></text>
+        </a>
+        <a
+           id="a234305"
+           xlink:href="#pre-contemplative"
+           transform="matrix(1.1000667,0,0,1.1000667,19.790543,-25.469967)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458331,1.1209711e-4,-1.1209711e-4,0.26458331,-744.30807,124.71217)"
+             id="text234303"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;white-space:pre;shape-inside:url(#rect234307)"
+             inkscape:label="GoToContemplative"><tspan
+               x="2076.834"
+               y="446.00191"
+               id="tspan318744"><tspan
+                 style="font-weight:bold"
+                 id="tspan318742">Previous Section : Pre-Contemplative State
+</tspan></tspan></text>
+        </a>
+      </g>
+      <g
+         id="g49480-8-3"
+         inkscape:label="Diapo 2"
+         transform="matrix(1.0863366,0,0,1.0863366,-254.21521,332.9848)">
+        <path
+           style="display:inline;fill:#9800c3;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 371.20744,-87.121182 c -51.26309,5.386791 -97.10232,-12.020793 -93.24045,-65.402328 3.86187,-53.38151 39.80499,-58.61188 71.71055,-53.08612 31.90556,5.5258 119.89322,-2.13685 104.49555,61.24995 -12.76087,52.532035 -82.96565,57.238498 -82.96565,57.238498 z"
+           id="path29369-3-0-0"
+           sodipodi:nodetypes="csssc"
+           inkscape:label="FondDiapo" />
+        <a
+           id="a72191-7-9"
+           xlink:href="#pre-contemplative"
+           transform="matrix(1.1000666,-4.660698e-4,4.660698e-4,1.1000666,512.1193,-371.91606)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458331,1.1209711e-4,-1.1209711e-4,0.26458331,-732.56456,128.57634)"
+             id="text24709-9-4-2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration:underline;text-decoration-line:underline;white-space:pre;shape-inside:url(#rect24711-75-5-7)"
+             inkscape:label="GoToContemplative"><tspan
+               x="2076.834"
+               y="446.00191"
+               id="tspan318748"><tspan
+                 style="font-weight:bold"
+                 id="tspan318746">Back to Pre-Contemplative
+</tspan></tspan></text>
+        </a>
+        <rect
+           style="fill:#00080f;fill-opacity:1;stroke-width:0.484398;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.7"
+           id="rect139346-2-5"
+           width="95.550766"
+           height="53.747307"
+           x="287.46729"
+           y="-184.45419"
+           ry="1.5833045"
+           inkscape:label="Video" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-27.033223,-2.3741899)"
+           id="text12859-1-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12861-9-5)"
+           inkscape:label="Titre"><tspan
+             x="1234.4414"
+             y="-708.57336"
+             id="tspan318750">Imaging in RCRSP</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07339221,0,0,0.07828375,270.10174,19.60241)"
+           id="text151971-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect151973-3-3)"
+           inkscape:label="Text"><tspan
+             x="1546.1602"
+             y="-2462.9737"
+             id="tspan318754">This video explains the <tspan
+   style="font-weight:bold"
+   id="tspan318752">limited role of imaging</tspan> in </tspan><tspan
+             x="1546.1602"
+             y="-2412.9737"
+             id="tspan318756">RCRSP. It tries to put imaging findings in </tspan><tspan
+             x="1546.1602"
+             y="-2362.9737"
+             id="tspan318758">perspective, and reinforces the idea that one can </tspan><tspan
+             x="1546.1602"
+             y="-2312.9737"
+             id="tspan318760">have perfect shoulder function in spite of them.
+</tspan><tspan
+             x="1546.1602"
+             y="-2262.9737"
+             id="tspan318762">
+</tspan><tspan
+             x="1546.1602"
+             y="-2212.9737"
+             id="tspan318766">The <tspan
+   style="font-weight:bold"
+   id="tspan318764">references</tspan> used in the videos are only found </tspan><tspan
+             x="1546.1602"
+             y="-2162.9737"
+             id="tspan318770">on the <tspan
+   style="font-weight:bold"
+   id="tspan318768">youtube page</tspan>, go there if you want them !
+</tspan><tspan
+             x="1546.1602"
+             y="-2112.9737"
+             id="tspan318772">
+</tspan><tspan
+             x="1546.1602"
+             y="-2062.9737"
+             id="tspan318776">Remember you can click on the <tspan
+   style="font-weight:bold"
+   id="tspan318774">QR code</tspan> to send an </tspan><tspan
+             x="1546.1602"
+             y="-2012.9737"
+             id="tspan318782"><tspan
+   style="font-weight:bold"
+   id="tspan318778">email</tspan>, and here are a few <tspan
+   style="font-weight:bold"
+   id="tspan318780">questions</tspan> you can use to </tspan><tspan
+             x="1546.1602"
+             y="-1962.9737"
+             id="tspan318784">get your patient’s feelings about this video.
+</tspan></text>
+        <a
+           id="a219132-5-5"
+           xlink:href="mailto:patient@email.com?subject=Video from your PT&amp;body=Please have a look at this video : https://www.youtube.com/watch?v=EoPGVN0Hv-8 "
+           xlink:show="new"
+           xlink:title="Send email"
+           transform="matrix(1.1255339,0,0,1.1255339,-47.10676,48.320769)"
+           inkscape:label="QR">
+          <g
+             inkscape:label="QR Code: https://youtu.be/SfnSX2Bs3ws"
+             transform="matrix(0.264583,0,0,0.264583,383.10635,-163.72348)"
+             id="g218894-1-9">
+            <g
+               style="fill:#000000;stroke:none"
+               id="g218892-1-4">
+              <path
+                 d="m 115.6,116 h -7.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -20,0 H 88.4 C 88.179086,116 88,115.82091 88,115.6 V 112 h 7.6 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -12,0 H 76.4 C 76.179086,116 76,115.82091 76,115.6 V 112 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 V 108 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 v -3.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 7.6 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -16,0 H 64.4 C 64.179086,116 64,115.82091 64,115.6 V 112 h 4 v 3.6 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -11.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 0.179086,0.4 0.4,0.4 H 64 v 4 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -7.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 7.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m -8,0 H 16.4 C 16.179086,116 16,115.82091 16,115.6 V 88.4 C 16,88.179086 16.179086,88 16.4,88 h 27.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 27.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 60,-4 h -3.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 V 108 h 4 v 3.6 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -28,0 H 68 v -4 h 3.6 c 0.220914,0 0.4,-0.17909 0.4,-0.4 v -3.2 c 0,-0.22091 -0.179086,-0.4 -0.4,-0.4 h -3.2 c -0.220914,0 -0.4,0.17909 -0.4,0.4 v 3.6 h -4 v -8 h 3.6 c 0.220914,0 0.4,-0.179086 0.4,-0.4 V 96.4 C 68,96.179086 68.179086,96 68.4,96 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.17909 0.4,0.4 v 3.6 h -3.6 c -0.220914,0 -0.4,0.17909 -0.4,0.4 V 112 Z M 40,111.6 V 92.4 C 40,92.179086 39.820914,92 39.6,92 H 20.4 C 20.179086,92 20,92.179086 20,92.4 v 19.2 c 0,0.22091 0.179086,0.4 0.4,0.4 h 19.2 c 0.220914,0 0.4,-0.17909 0.4,-0.4 z m 75.6,-3.6 h -3.2 c -0.22091,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 3.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -8,0 H 104 v -3.6 c 0,-0.22091 -0.17909,-0.4 -0.4,-0.4 h -3.2 c -0.22091,0 -0.4,0.17909 -0.4,0.4 v 3.6 h -7.6 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -7.2 C 92,100.17909 91.820914,100 91.6,100 H 80.4 C 80.179086,100 80,99.820914 80,99.6 V 96.4 C 80,96.179086 79.820914,96 79.6,96 H 76.4 C 76.179086,96 76,95.820914 76,95.6 V 92.4 C 76,92.179086 75.820914,92 75.6,92 H 72.4 C 72.179086,92 72,91.820914 72,91.6 V 88.4 C 72,88.179086 72.179086,88 72.4,88 h 3.2 C 75.820914,88 76,87.820914 76,87.6 V 80 h 3.6 C 79.820914,80 80,79.820914 80,79.6 V 72.4 C 80,72.179086 80.179086,72 80.4,72 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 95.6 C 95.820914,80 96,79.820914 96,79.6 V 76.4 C 96,76.179086 95.820914,76 95.6,76 H 88.4 C 88.179086,76 88,75.820914 88,75.6 V 68.4 C 88,68.179086 87.820914,68 87.6,68 H 80.4 C 80.179086,68 80,67.820914 80,67.6 V 64.4 C 80,64.179086 80.179086,64 80.4,64 h 3.2 C 83.820914,64 84,63.820914 84,63.6 V 56.4 C 84,56.179086 83.820914,56 83.6,56 H 80.4 C 80.179086,56 80,55.820914 80,55.6 V 48 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 C 87.820914,52 88,51.820914 88,51.6 V 48.4 C 88,48.179086 88.179086,48 88.4,48 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 H 92.4 C 92.179086,52 92,52.179086 92,52.4 v 3.2 C 92,55.820914 91.820914,56 91.6,56 H 88.4 C 88.179086,56 88,56.179086 88,56.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 96 v 11.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.6 v 7.6 c 0,0.220914 0.17909,0.4 0.4,0.4 h 7.6 v 3.6 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -3.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 7.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -3.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 3.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 h -7.2 c -0.22091,0 -0.4,0.179086 -0.4,0.4 v 3.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.2 c 0.22091,0 0.4,0.17909 0.4,0.4 v 7.2 c 0,0.22091 -0.17909,0.4 -0.4,0.4 z m -72,0 H 24.4 C 24.179086,108 24,107.82091 24,107.6 V 96.4 C 24,96.179086 24.179086,96 24.4,96 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 16,-4 h -3.2 c -0.220914,0 -0.4,-0.17909 -0.4,-0.4 v -3.2 c 0,-0.22091 0.179086,-0.4 0.4,-0.4 H 52 v 3.6 c 0,0.22091 -0.179086,0.4 -0.4,0.4 z m 12,-4 H 52 V 96.4 C 52,96.179086 52.179086,96 52.4,96 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 100 Z M 96,95.6 V 84.4 C 96,84.179086 95.820914,84 95.6,84 H 84.4 C 84.179086,84 84,84.179086 84,84.4 v 11.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 95.6 C 95.820914,96 96,95.820914 96,95.6 Z M 91.6,92 H 88.4 C 88.179086,92 88,91.820914 88,91.6 V 88.4 C 88,88.179086 88.179086,88 88.4,88 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -32,0 H 56.4 C 56.179086,92 56,91.820914 56,91.6 V 88.4 C 56,88.179086 55.820914,88 55.6,88 H 52.4 C 52.179086,88 52,88.179086 52,88.4 v 3.2 C 52,91.820914 51.820914,92 51.6,92 H 48.4 C 48.179086,92 48,91.820914 48,91.6 V 84.4 C 48,84.179086 47.820914,84 47.6,84 H 36.4 C 36.179086,84 36,83.820914 36,83.6 V 76.4 C 36,76.179086 36.179086,76 36.4,76 H 40 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 15.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 64,87.820914 63.820914,88 63.6,88 H 60.4 C 60.179086,88 60,88.179086 60,88.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 12,-8 H 68.4 C 68.179086,84 68,83.820914 68,83.6 V 72 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 80 H 72.4 C 72.179086,80 72,80.179086 72,80.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -44,0 H 16.4 C 16.179086,84 16,83.820914 16,83.6 V 80.4 C 16,80.179086 16.179086,80 16.4,80 h 3.2 C 19.820914,80 20,79.820914 20,79.6 V 76 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 H 28 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 84,-4 H 108 v -4 h 4 v 3.6 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -80,0 H 28 v -4 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 84,-4 H 112 V 68.4 C 112,68.179086 111.82091,68 111.6,68 H 108 v -3.6 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -8,0 h -3.2 C 104.17909,76 104,75.820914 104,75.6 V 72.4 C 104,72.179086 103.82091,72 103.6,72 H 100 v -7.6 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.17909,0.4 0.4,0.4 h 3.6 v 8 z m -44,0 H 48.4 C 48.179086,76 48,75.820914 48,75.6 V 72.4 C 48,72.179086 48.179086,72 48.4,72 h 3.2 C 51.820914,72 52,71.820914 52,71.6 V 68 h 4 v 3.6 c 0,0.220914 0.179086,0.4 0.4,0.4 H 64 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -20,0 H 40 v -4 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -16,0 H 24 V 64.4 C 24,64.179086 24.179086,64 24.4,64 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 32,71.820914 31.820914,72 31.6,72 H 28.4 C 28.179086,72 28,72.179086 28,72.4 V 76 Z m -8,0 H 16.4 C 16.179086,76 16,75.820914 16,75.6 V 72.4 C 16,72.179086 16.179086,72 16.4,72 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 76 Z m 56,-4 H 72 V 68.4 C 72,68.179086 72.179086,68 72.4,68 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 64 V 68.4 C 64,68.179086 64.179086,68 64.4,68 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 72 Z m -28,0 H 36.4 C 36.179086,72 36,71.820914 36,71.6 V 64 h 7.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 44,67.820914 43.820914,68 43.6,68 H 40.4 C 40.179086,68 40,68.179086 40,68.4 V 72 Z m 20,-4 H 56 V 64.4 C 56,64.179086 55.820914,64 55.6,64 H 52 V 60.4 C 52,60.179086 52.179086,60 52.4,60 h 23.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 76,63.820914 75.820914,64 75.6,64 H 60.4 C 60.179086,64 60,64.179086 60,64.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 48.4 C 48.179086,68 48,67.820914 48,67.6 V 64.4 C 48,64.179086 48.179086,64 48.4,64 H 52 v 4 z m -32,0 H 16.4 C 16.179086,68 16,67.820914 16,67.6 V 48.4 C 16,48.179086 16.179086,48 16.4,48 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 24,51.820914 23.820914,52 23.6,52 H 20.4 C 20.179086,52 20,52.179086 20,52.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 7.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 C 28,59.820914 27.820914,60 27.6,60 H 20.4 C 20.179086,60 20,60.179086 20,60.4 v 7.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 16,-4 H 32.4 C 32.179086,64 32,63.820914 32,63.6 V 56.4 C 32,56.179086 32.179086,56 32.4,56 H 36 v 8 z m 80,-4 h -7.2 c -0.22091,0 -0.4,-0.179086 -0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 3.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 V 52 h 3.6 c 0.22091,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -16,0 H 96 V 56.4 C 96,56.179086 96.179086,56 96.4,56 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -52,0 H 40.4 C 40.179086,60 40,59.820914 40,59.6 V 56 h 3.6 C 43.820914,56 44,55.820914 44,55.6 V 52.4 C 44,52.179086 43.820914,52 43.6,52 H 40 V 48.4 C 40,48.179086 40.179086,48 40.4,48 H 48 v 11.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 20,-4 H 64.4 C 64.179086,56 64,55.820914 64,55.6 V 52 h 4 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -12,0 H 52.4 C 52.179086,56 52,55.820914 52,55.6 V 52.4 C 52,52.179086 52.179086,52 52.4,52 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -16,0 H 36 V 52.4 C 36,52.179086 36.179086,52 36.4,52 H 40 v 4 z m 72,-4 h -7.2 c -0.22091,0 -0.4,-0.179086 -0.4,-0.4 v -3.2 c 0,-0.220914 0.17909,-0.4 0.4,-0.4 h 7.2 c 0.22091,0 0.4,0.179086 0.4,0.4 V 52 Z m -36,0 H 68 V 48.4 C 68,48.179086 68.179086,48 68.4,48 H 76 v 3.6 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -12,0 H 60.4 C 60.179086,52 60,51.820914 60,51.6 V 48 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 V 52 Z m -32,0 H 28.4 C 28.179086,52 28,51.820914 28,51.6 V 48.4 C 28,48.179086 28.179086,48 28.4,48 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 48,-4 H 76 v -4 h 4 v 4 z m -20,0 H 56.4 C 56.179086,48 56,47.820914 56,47.6 V 36.4 C 56,36.179086 55.820914,36 55.6,36 H 52.4 C 52.179086,36 52,36.179086 52,36.4 V 47.6 C 52,47.820914 51.820914,48 51.6,48 H 48 V 32.4 C 48,32.179086 48.179086,32 48.4,32 h 3.2 C 51.820914,32 52,31.820914 52,31.6 V 28 h 3.6 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 48 Z m 56,-4 H 88.4 C 88.179086,44 88,43.820914 88,43.6 V 16.4 C 88,16.179086 88.179086,16 88.4,16 h 27.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 27.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -32,0 H 80 V 40.4 C 80,40.179086 79.820914,40 79.6,40 H 76 V 36.4 C 76,36.179086 75.820914,36 75.6,36 H 68.4 C 68.179086,36 68,36.179086 68,36.4 v 7.2 C 68,43.820914 67.820914,44 67.6,44 H 64.4 C 64.179086,44 64,43.820914 64,43.6 V 32.4 C 64,32.179086 64.179086,32 64.4,32 h 7.2 C 71.820914,32 72,31.820914 72,31.6 V 24 h 3.6 C 75.820914,24 76,23.820914 76,23.6 V 20.4 C 76,20.179086 76.179086,20 76.4,20 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 C 80,27.820914 79.820914,28 79.6,28 H 76.4 C 76.179086,28 76,28.179086 76,28.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 3.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m -8,0 H 72.4 C 72.179086,44 72,43.820914 72,43.6 V 40.4 C 72,40.179086 72.179086,40 72.4,40 H 76 v 4 z m -32,0 H 16.4 C 16.179086,44 16,43.820914 16,43.6 V 16.4 C 16,16.179086 16.179086,16 16.4,16 h 27.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 43.6 C 44,43.820914 43.820914,44 43.6,44 Z M 112,39.6 V 20.4 C 112,20.179086 111.82091,20 111.6,20 H 92.4 C 92.179086,20 92,20.179086 92,20.4 v 19.2 c 0,0.220914 0.179086,0.4 0.4,0.4 h 19.2 c 0.22091,0 0.4,-0.179086 0.4,-0.4 z m -72,0 V 20.4 C 40,20.179086 39.820914,20 39.6,20 H 20.4 C 20.179086,20 20,20.179086 20,20.4 v 19.2 c 0,0.220914 0.179086,0.4 0.4,0.4 H 39.6 C 39.820914,40 40,39.820914 40,39.6 Z M 107.6,36 H 96.4 C 96.179086,36 96,35.820914 96,35.6 V 24.4 C 96,24.179086 96.179086,24 96.4,24 h 11.2 c 0.22091,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.17909,0.4 -0.4,0.4 z m -72,0 H 24.4 C 24.179086,36 24,35.820914 24,35.6 V 24.4 C 24,24.179086 24.179086,24 24.4,24 h 11.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 11.2 c 0,0.220914 -0.179086,0.4 -0.4,0.4 z m 16,-8 H 48.4 C 48.179086,28 48,27.820914 48,27.6 V 20.4 C 48,20.179086 48.179086,20 48.4,20 h 7.2 C 55.820914,20 56,19.820914 56,19.6 V 16.4 C 56,16.179086 56.179086,16 56.4,16 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 v 7.2 C 60,23.820914 59.820914,24 59.6,24 H 52.4 C 52.179086,24 52,24.179086 52,24.4 V 28 Z m 20,-4 H 68.4 C 68.179086,24 68,23.820914 68,23.6 V 20.4 C 68,20.179086 68.179086,20 68.4,20 h 3.2 c 0.220914,0 0.4,0.179086 0.4,0.4 V 24 Z"
+                 id="path218890-0-69" />
+            </g>
+          </g>
+        </a>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.07209926,0,0,0.07209926,270.13032,-1.7284612)"
+           id="text228495-8-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect228497-6-8)"
+           inkscape:label="Questions"><tspan
+             x="358.78711"
+             y="-1731.8195"
+             id="tspan318786">Q1 : At the end of the video, kinesiophoby is mentioned : do you </tspan><tspan
+             x="358.78711"
+             y="-1681.8195"
+             id="tspan318788">remember what this is ?
+</tspan><tspan
+             x="358.78711"
+             y="-1631.8195"
+             id="tspan318790">
+</tspan><tspan
+             x="358.78711"
+             y="-1581.8195"
+             id="tspan318794"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031"
+               id="tspan318792">Q2 : This video gives general facts about imaging, do you think </tspan></tspan><tspan
+             x="358.78711"
+             y="-1531.8195"
+             id="tspan318796">this relates to your specific situation ?
+</tspan></text>
+      </g>
+      <a
+         id="a185513-2"
+         xlink:href="#contemplative:imaging"
+         transform="translate(15.553507,-4.1793362)">
+        <g
+           id="g1035-4"
+           inkscape:label="Video arrow">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.4425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker108808-83);paint-order:normal"
+             d="m -47.734435,181.15163 c 16.140561,17.46952 37.102342,13.65983 64.529075,3.40935 0,0 0,0 17.238165,-5.4046"
+             id="path108526-7"
+             sodipodi:nodetypes="csc"
+             inkscape:label="path108526" />
+          <text
+             xml:space="preserve"
+             id="text116924-7"
+             style="font-size:10.5833px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';white-space:pre"
+             transform="translate(0.80949891,-1.1071495)"><textPath
+               xlink:href="#path108526-7"
+               id="textPath123462-5"><tspan
+                 id="tspan116928-4">Videos </tspan></textPath></text>
+        </g>
+      </a>
+      <a
+         id="a33717-8"
+         xlink:href="#contemplative:moreinfo"
+         transform="translate(4.5328894,3.4499916)">
+        <g
+           id="g1035-8-1"
+           inkscape:label="More Info arrow"
+           transform="translate(4.7328585,-57.601501)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.4425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker108808-8-9);paint-order:normal"
+             d="m -38.522286,159.77063 c 22.302205,4.94814 49.198753,-1.44525 53.978285,-11.25513 0,0 4.661048,-8.56941 7.671217,-14.19399"
+             id="path108526-9-2"
+             sodipodi:nodetypes="csc"
+             inkscape:label="path108526" />
+          <text
+             xml:space="preserve"
+             id="text116924-36-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+             transform="translate(0.80949891,-1.1071495)"><textPath
+               xlink:href="#path108526-9-2"
+               id="textPath123462-80-9">More info</textPath></text>
+        </g>
+      </a>
+    </g>
+    <g
        id="g49487"
        inkscape:label="Intro"
        transform="matrix(3.6697095,0,0,3.6697095,-1005.0455,0.27008312)">
@@ -1054,7 +1220,7 @@
            inkscape:label="Titre"><tspan
              x="1234.4414"
              y="-708.57336"
-             id="tspan186048">Introductory video</tspan></text>
+             id="tspan318798">Introductory video</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.07484895,0,0,0.07484895,271.02296,6.7941734)"
@@ -1063,63 +1229,63 @@
            inkscape:label="Text"><tspan
              x="1546.1602"
              y="-2462.9737"
-             id="tspan186052">This is the first suggested video ! It's a <tspan
+             id="tspan318802">This is the first suggested video ! It's a <tspan
    style="font-weight:bold"
-   id="tspan186050">simple </tspan></tspan><tspan
+   id="tspan318800">simple </tspan></tspan><tspan
              x="1546.1602"
              y="-2412.9737"
-             id="tspan186056"><tspan
+             id="tspan318806"><tspan
    style="font-weight:bold"
-   id="tspan186054">presentation</tspan> of this tool, to get the patient </tspan><tspan
+   id="tspan318804">presentation</tspan> of this tool, to get the patient </tspan><tspan
              x="1546.1602"
              y="-2362.9737"
-             id="tspan186058">engaged.
+             id="tspan318808">engaged.
 </tspan><tspan
              x="1546.1602"
              y="-2312.9737"
-             id="tspan186062">It also evokes RCRSP, its <tspan
+             id="tspan318812">It also evokes RCRSP, its <tspan
    style="font-weight:bold"
-   id="tspan186060">prognosis</tspan> and the most </tspan><tspan
+   id="tspan318810">prognosis</tspan> and the most </tspan><tspan
              x="1546.1602"
              y="-2262.9737"
-             id="tspan186066"><tspan
+             id="tspan318816"><tspan
    style="font-weight:bold"
-   id="tspan186064">recommended treatments</tspan>.
+   id="tspan318814">recommended treatments</tspan>.
 </tspan><tspan
              x="1546.1602"
              y="-2212.9737"
-             id="tspan186068">
+             id="tspan318818">
 </tspan><tspan
              x="1546.1602"
              y="-2162.9737"
-             id="tspan186072">Under the video you will find suggested <tspan
+             id="tspan318822">Under the video you will find suggested <tspan
    style="font-weight:bold"
-   id="tspan186070">questions</tspan> </tspan><tspan
+   id="tspan318820">questions</tspan> </tspan><tspan
              x="1546.1602"
              y="-2112.9737"
-             id="tspan186074">to ask your patient at the next appointment, to </tspan><tspan
+             id="tspan318824">to ask your patient at the next appointment, to </tspan><tspan
              x="1546.1602"
              y="-2062.9737"
-             id="tspan186076">evaluate their understanding and to collect </tspan><tspan
+             id="tspan318826">evaluate their understanding and to collect </tspan><tspan
              x="1546.1602"
              y="-2012.9737"
-             id="tspan186078">feedback.
+             id="tspan318828">feedback.
 </tspan><tspan
              x="1546.1602"
              y="-1962.9737"
-             id="tspan186082">You can also see a <tspan
+             id="tspan318832">You can also see a <tspan
    style="font-weight:bold"
-   id="tspan186080">QR code</tspan>, you can either click on </tspan><tspan
+   id="tspan318830">QR code</tspan>, you can either click on </tspan><tspan
              x="1546.1602"
              y="-1912.9737"
-             id="tspan186086">it to <tspan
+             id="tspan318836">it to <tspan
    style="font-weight:bold"
-   id="tspan186084">send an email</tspan> with the video to your patient, </tspan><tspan
+   id="tspan318834">send an email</tspan> with the video to your patient, </tspan><tspan
              x="1546.1602"
              y="-1862.9737"
-             id="tspan186090">or have him <tspan
+             id="tspan318840">or have him <tspan
    style="font-weight:bold"
-   id="tspan186088">scan the code</tspan>.</tspan></text>
+   id="tspan318838">scan the code</tspan>.</tspan></text>
         <a
            id="a219132"
            xlink:href="mailto:patient@email.com?subject=Video from your PT&amp;body=Please have a look at this video : https://www.youtube.com/watch?v=EoPGVN0Hv-8 "
@@ -1148,30 +1314,30 @@
            inkscape:label="Questions"><tspan
              x="358.78711"
              y="-1731.8195"
-             id="tspan186092">Q1: Do you think your complaints match those described in the </tspan><tspan
+             id="tspan318842">Q1: Do you think your complaints match those described in the </tspan><tspan
              x="358.78711"
              y="-1681.8195"
-             id="tspan186094">video ?
+             id="tspan318844">video ?
 </tspan><tspan
              x="358.78711"
              y="-1631.8195"
-             id="tspan186096">
+             id="tspan318846">
 </tspan><tspan
              x="358.78711"
              y="-1581.8195"
-             id="tspan186100"><tspan
+             id="tspan318850"><tspan
                dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010681152"
-               id="tspan186098">Q2: Can you remember the expected timeframe mentioned in the </tspan></tspan><tspan
+               id="tspan318848">Q2: Can you remember the expected timeframe mentioned in the </tspan></tspan><tspan
              x="358.78711"
              y="-1531.8195"
-             id="tspan186102">video ? How do you feel about it ?
+             id="tspan318852">video ? How do you feel about it ?
 </tspan></text>
       </g>
     </g>
     <g
        id="g29301-3-9"
        inkscape:label="States of Change"
-       transform="rotate(-0.02427474,-2511753,-1563628.9)">
+       transform="rotate(-0.02427474,-2511753,-1563658.6)">
       <path
          style="fill:#ecbc57;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m -211.39262,161.9681 c 44.56974,-23.92879 165.819361,-41.91083 179.121431,-3.28367 38.6985121,112.3745 -57.214306,104.92617 -107.716601,103.37909 -127.52375,-3.90655 -95.41173,-87.2065 -71.40483,-100.09542 z"
@@ -1202,57 +1368,57 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect38691)"><tspan
            x="1743.2246"
            y="-3407.4782"
-           id="tspan186104">The videos provided in this tool can be used independently, but they are </tspan><tspan
+           id="tspan318854">The videos provided in this tool can be used independently, but they are </tspan><tspan
            x="1743.2246"
            y="-3384.1447"
-           id="tspan186106">presented here like a path, and they are grouped according to Prochaska </tspan><tspan
+           id="tspan318856">presented here like a path, and they are grouped according to Prochaska </tspan><tspan
            x="1743.2246"
            y="-3360.8112"
-           id="tspan186110">and Diclemente <tspan
+           id="tspan318860">and Diclemente <tspan
    style="font-weight:bold"
-   id="tspan186108">states of change</tspan>.
+   id="tspan318858">states of change</tspan>.
 </tspan><tspan
            x="1743.2246"
            y="-3337.4777"
-           id="tspan186112">
+           id="tspan318862">
 </tspan><tspan
            x="1743.2246"
            y="-3314.1442"
-           id="tspan186114">Don’t worry if you are unfamiliar with this model, it’s mostly used here as a </tspan><tspan
+           id="tspan318864">Don’t worry if you are unfamiliar with this model, it’s mostly used here as a </tspan><tspan
            x="1743.2246"
            y="-3290.8107"
-           id="tspan186116">way to organise the content. This classification is based on the patient’s </tspan><tspan
+           id="tspan318866">way to organise the content. This classification is based on the patient’s </tspan><tspan
            x="1743.2246"
            y="-3267.4772"
-           id="tspan186122">state of mind regarding <tspan
+           id="tspan318872">state of mind regarding <tspan
    style="font-weight:bold"
-   id="tspan186118">therapeutic exercise </tspan>and <tspan
+   id="tspan318868">therapeutic exercise </tspan>and <tspan
    style="font-weight:bold"
-   id="tspan186120">physical activity</tspan> as a </tspan><tspan
+   id="tspan318870">physical activity</tspan> as a </tspan><tspan
            x="1743.2246"
            y="-3244.1437"
-           id="tspan186124">treatment for RCRSP.
+           id="tspan318874">treatment for RCRSP.
 </tspan><tspan
            x="1743.2246"
            y="-3220.8102"
-           id="tspan186126">
+           id="tspan318876">
 </tspan><tspan
            x="1743.2246"
            y="-3197.4767"
-           id="tspan186128">Some videos will suggest to your patient another video to watch, this is </tspan><tspan
+           id="tspan318878">Some videos will suggest to your patient another video to watch, this is </tspan><tspan
            x="1743.2246"
            y="-3174.1433"
-           id="tspan186130">indicated by a dotted arrow between the videos.
+           id="tspan318880">indicated by a dotted arrow between the videos.
 </tspan><tspan
            x="1743.2246"
            y="-3150.8098"
-           id="tspan186132">
+           id="tspan318882">
 </tspan><tspan
            x="1743.2246"
            y="-3127.4763"
-           id="tspan186136">The next slide will be on the <tspan
+           id="tspan318886">The next slide will be on the <tspan
    style="font-weight:bold"
-   id="tspan186134">pre-contemplative</tspan> state-of change</tspan></text>
+   id="tspan318884">pre-contemplative</tspan> state-of change</tspan></text>
     </g>
     <g
        id="g970"
@@ -1284,27 +1450,27 @@
            inkscape:label="text62984"><tspan
              x="-227.31055"
              y="1238.6415"
-             id="tspan186138">The point of this tool is to offer </tspan><tspan
+             id="tspan318888">The point of this tool is to offer </tspan><tspan
              x="-227.31055"
              y="1268.6415"
-             id="tspan186140">educationnal videos, that cover different </tspan><tspan
+             id="tspan318890">educationnal videos, that cover different </tspan><tspan
              x="-227.31055"
              y="1298.6415"
-             id="tspan186146">topics related to <tspan
+             id="tspan318896">topics related to <tspan
    style="font-weight:bold"
-   id="tspan186142">exercise</tspan> and <tspan
+   id="tspan318892">exercise</tspan> and <tspan
    style="font-weight:bold"
-   id="tspan186144">physical </tspan></tspan><tspan
+   id="tspan318894">physical </tspan></tspan><tspan
              x="-227.31055"
              y="1328.6415"
-             id="tspan186150"><tspan
+             id="tspan318900"><tspan
    style="font-weight:bold"
-   id="tspan186148">activity</tspan> for the management of rotator </tspan><tspan
+   id="tspan318898">activity</tspan> for the management of rotator </tspan><tspan
              x="-227.31055"
              y="1358.6415"
-             id="tspan186154">cuff related shoulder pain (<tspan
+             id="tspan318904">cuff related shoulder pain (<tspan
    style="font-weight:bold"
-   id="tspan186152">RCRSP</tspan>).</tspan></text>
+   id="tspan318902">RCRSP</tspan>).</tspan></text>
       </g>
       <g
          id="g29301"
@@ -1350,29 +1516,29 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10063)"><tspan
              x="307.06641"
              y="725.89018"
-             id="tspan186156">This is a presentation of the </tspan><tspan
+             id="tspan318906">This is a presentation of the </tspan><tspan
              x="307.06641"
              y="762.55681"
-             id="tspan186158">different videos, how they relate to </tspan><tspan
+             id="tspan318908">different videos, how they relate to </tspan><tspan
              x="307.06641"
              y="799.22343"
-             id="tspan186160">each other and what topic they </tspan><tspan
+             id="tspan318910">each other and what topic they </tspan><tspan
              x="307.06641"
              y="835.89006"
-             id="tspan186162">cover.
+             id="tspan318912">cover.
 </tspan><tspan
              x="307.06641"
              y="872.55669"
-             id="tspan186164">This part will hopefully help you </tspan><tspan
+             id="tspan318914">This part will hopefully help you </tspan><tspan
              x="307.06641"
              y="909.22331"
-             id="tspan186166">determine which video is best </tspan><tspan
+             id="tspan318916">determine which video is best </tspan><tspan
              x="307.06641"
              y="945.88994"
-             id="tspan186168">suited for your patient at every step </tspan><tspan
+             id="tspan318918">suited for your patient at every step </tspan><tspan
              x="307.06641"
              y="982.55656"
-             id="tspan186170">of the rehabilitation.</tspan></text>
+             id="tspan318920">of the rehabilitation.</tspan></text>
       </g>
     </g>
   </g>
@@ -1389,7 +1555,7 @@
        inkscape:label="Name"><tspan
          x="-3595.3672"
          y="648.29383"
-         id="tspan186172">Corentin Glon</tspan></text>
+         id="tspan318922">Corentin Glon</tspan></text>
     <rect
        y="-29.603302"
        x="-1329.4446"
@@ -1410,10 +1576,10 @@
          inkscape:label="Instructions1"><tspan
            x="-3163.7305"
            y="645.38797"
-           id="tspan186174">In the top left corner, you can see a number indicating the current slide. Please click on it to </tspan><tspan
+           id="tspan318924">In the top left corner, you can see a number indicating the current slide. Please click on it to </tspan><tspan
            x="-3163.7305"
            y="678.72135"
-           id="tspan186176">open a listing of every slide, this way you can access a specific topic much faster.</tspan></text>
+           id="tspan318926">open a listing of every slide, this way you can access a specific topic much faster.</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,104.39959,19.24035)"
@@ -1421,19 +1587,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46833)"><tspan
            x="-2638.8711"
            y="189.15286"
-           id="tspan186178">N
+           id="tspan318928">N
 </tspan><tspan
            x="-2638.8711"
            y="235.81948"
-           id="tspan186180">E
+           id="tspan318930">E
 </tspan><tspan
            x="-2638.8711"
            y="282.48611"
-           id="tspan186182">X
+           id="tspan318932">X
 </tspan><tspan
            x="-2638.8711"
            y="329.15273"
-           id="tspan186184">T</tspan></text>
+           id="tspan318934">T</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-121.99682,20.063922)"
@@ -1441,19 +1607,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect46833-6)"><tspan
            x="-2638.8711"
            y="189.15286"
-           id="tspan186186">P
+           id="tspan318936">P
 </tspan><tspan
            x="-2638.8711"
            y="235.81948"
-           id="tspan186188">R
+           id="tspan318938">R
 </tspan><tspan
            x="-2638.8711"
            y="282.48611"
-           id="tspan186190">E
+           id="tspan318940">E
 </tspan><tspan
            x="-2638.8711"
            y="329.15273"
-           id="tspan186192">V
+           id="tspan318942">V
 </tspan></text>
       <rect
          y="-12.205534"
